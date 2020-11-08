@@ -33,7 +33,7 @@ $$
 - **La tangente** (abreviado como tan o tg) es la razón entre el cateto opuesto al ángulo y el cateto adyacente.
 
 $$
- |\tan \alpha ={\frac {\overline {CB}}{\overline {AC}}}={\frac {\overline {DE}}{\overline {AD}}}
+  \tan \alpha ={\frac {\overline {CB}}{\overline {AC}}}={\frac {\overline {DE}}{\overline {AD}}}
 $$
 
 #### 1.1.1.1. Representación gráfica
@@ -81,7 +81,7 @@ Normalmente se emplean las relaciones trigonométricas seno, coseno y tangente, 
 
 ### 1.1.4. Identidades trigonométricas
 
-Una identidad es una igualdad en que se cumple para todos los valores permisibles de la variable. En trigonometría existen seis identidades fundamentales:
+Una identidad es una igualdad que se cumple para todos los valores permisibles de la variable. En trigonometría existen seis identidades fundamentales:
 
 #### 1.1.4.1. Recíprocas
 
