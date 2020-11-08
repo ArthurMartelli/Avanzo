@@ -73,7 +73,6 @@ Normalmente se emplean las relaciones trigonométricas seno, coseno y tangente, 
 | $\sec\theta\,$ |     $\frac{1}{\sqrt{1-\sin^{2}\theta}}$      |           $\frac{1}{\cos\theta\,}$           |          $\sqrt{1+\tan^{2}\theta}$           | $\frac{\sqrt{1+\cot^{2}\theta}}{\cot\theta}$ |               ${\sec\theta}\,$               | $\frac{\csc\theta}{\sqrt{\csc^{2}\theta-1}}$ |
 | $\csc\theta\,$ |           $\frac{1}{\sin\theta\,}$           |     $\frac{1}{\sqrt{1-\cos^{2}\theta}}$      | $\frac{\sqrt{1+\tan^{2}\theta}}{\tan\theta}$ |          $\sqrt{1+\cot^{2}\theta}$           | $\frac{\sec\theta}{\sqrt{\sec^{2}\theta-1}}$ | ${\csc\theta}\,$                             |
 
-
 ### 1.1.4. Identidades trigonométricas
 
 Una identidad es una igualdad en que se cumple para todos los valores permisibles de la variable. En trigonometría existen seis identidades fundamentales:
@@ -323,10 +322,11 @@ En la práctica, el presidente Duarte contaba con márgenes muy estrechos para n
 
 Además, Duarte tuvo que enfrentar a lo largo de toda su presidencia la oposición de la derecha civil, que controlaba la mayor parte del aparato productivo y la mayoría de los medios de comunicación. Por otro lado, el FMLN sostenía posiciones y exigencias maximalistas, para las cuales no había posibilidades de realización. En el fondo, ambas partes beligerantes confiaban aún en sus fuerzas para lograr una victoria militar sobre su oponente.
 
-| Lugar y Fecha | Tema tratado | Acuerdos obtenidos |
+| Lugar-Fecha | Tema tratado | Acuerdos obtenidos |
 | ------------- | ------------ | ------------------ |
 La Palma, Chalatengango <br> 15/10/1986 | La incorporación del FMLN al proceso democrático y la preparación de la próxima consulta popular. Las propuestas de solución del conflicto salvadoreño. <br> El gobierno y las fuerzas armadas solicitaron al FMLN el abandono de las armas para poder convertirse en partido político. Al FDR le pidieron participar en las proximas elecciones legislativas. <br> El FMLN proponía el reparto del poder político para formar un gobierno de transición que hiciera concretas las reformas económicas y sociales que llevarían a la paz social. | Creación de una comisión mixta creada por cuatro delegados del gobierno y cuatro del FMLN-FDR para que estudiaran las propuestas de paz, presentadas por las partes del conflicto. <br> Participación del FMLN en las elecciones como partido político.
-Ayagualo, La Libertad <br> 30/11/1984 | La resolución del conflicto armado.  
+Ayagualo, La Libertad <br> 30/11/1984 | La resolución del Conflicto Armado. El FDR-FMLN propuso tres fases para solucionar el conflicto armado y el PDC propuso que el FMLN depusiera las armas; que se incorporara a la democrática social salvadoreña y participará como partido político en las próximas elecciones. <br> El FMLN-FDR solicitaron el fin de la ingerencia estadounidense. <br> La reinstalación y repatriación de los refugiados. <br> Fusión del FMLN y al <br> Fuerza Armada para formar la Fuerza Armada Nacional. <br> Humanización de la guerra. | Crear las normas de la comisión mixta. <br> Permitir la evacuación de los discapacitados de guerra del FMLN. <br> Continuar el diálogo. <br> Permitir durante la 13 días la movilización libre de personas y vehículos.
+La Nunciatura <br> 4 - 5/10/1987 | Solución política del conflicto. <br> Posición sobre la no violencia. <br> El perdón y olvido. <br> Acuerdos específicos para buscar una salida política. <br> Implantación del proceso de diálogo y comunicación. <br> Posibilidad de continuidad del diálogo. | Apoyar las gestiones de paz de los presidentes de América Central <br> Crear dos comisiones para preparar los acuerdos sobre alto al fuego y los puntos de Esquipulas II; dichas comisiones estarían integradas por cuatro integrantes del gobierno, PPS, Fuerza Armada y representantes del FMLN-FD.
 
 ## 3.5. Los factores que hicieron posibles los Acuerdos de Paz: internos y externos[^3.5]
 
@@ -347,7 +347,6 @@ Ayagualo, La Libertad <br> 30/11/1984 | La resolución del conflicto armado.
 ## 4.1. El clasicismo griego. Epopeyas homéricas: características, valores y recursos[^4.1]
 
 La poesìa èpica exaltaba las hazañas de los hèroes y los dioses. En su origen, los poemas eran cantados por un aedo o cantor que viajaba de pueblo en pueblo y tenìa un fuerte vìnculo con la nobleza 
-
 
 ### Características
 
@@ -447,7 +446,6 @@ los cantares de gesta contaban las hazañas legendarias del héroe de un pueblo,
 - El Canto de Igor.
 - La Canción de Roldán.
 - El Mio Cid.
-
 
 ## 4.4. La poesía mística: características y representantes[^4.4]
 
@@ -563,7 +561,6 @@ Se basa en el ingenio: son frecuentes la ironía, la paradoja, la caricatura, el
 - Sueños y discursos.
 - El chitón de las tarabillas.
 
-
 ### Luis de Góngora
 
 - La fábula de Polifermo y Galetea,
@@ -652,12 +649,10 @@ Supone una metáfora anterior. El término real es, a su vez, el termino imagina
 > Caballito negro. <br>
 > ¿Dónde llevas tu jinete muerto?
 
-> <br>
+&nbsp;
 
-> La noche espolea
-> 
-> sus negro ijares
-> 
+> La noche espolea <br>
+> sus negro ijares <br>
 > clavándole estrellas.
 
 #### Metáfora impresionista o descriptiva:
@@ -746,8 +741,8 @@ Se centra en el mensaje. Pore una parte, consiste el desplazar el significado pr
 ## 4.15. Sujeto: núcleo y adyacentes[^4.15]
 
 ![](img/len/Sujeto%20núcleo%20y%20adyacentes.jpg)
-![](img/len/Sujeto%20núcleo%20y%20adyacentes2.jpg)
 
+![](img/len/Sujeto%20núcleo%20y%20adyacentes2.jpg)
 
 ## 4.16. Predicado nominal: cópula, atributo[^4.16]
 
@@ -801,8 +796,8 @@ La finalidad de los textos publicitarios es convencer, provocar necesidades o in
 
 ## 4.24. Uso de signos de puntuación[^4.24]
 
-Signo | Uso
---- | ---
+| Signo | Uso de los signos |
+| ----- | ----------------- |
 Punto | - El punto y seguido finaliza una idea dentro del párrafo. <br>- El punto y aparte finaliza el párrafo dentro del texto. <br>- El punto final cierra la redacción de un texto.
 Coma | - Separa dos o más palabras de una enumeración. Ejemplo: Acudió toda la familia: abuelos, padres, hijos, cuñados, etc.<br> - Separa un complemento que se antepone al sujeto. Ejemplo: Por la noche, los niños duermen.-Aisla una oración explicativa que se intercala en una frase. Ejemplo: Ella es, entre todas las que llegaron, la más linda. <br> - Sustituye un verbo (elipsis verbal): A pedro le gusta el jamón; a juan, el tocino. Se ha sustituido el verbo gusta en la segunda oración.
 Punto y coma | - Separa elementos en una oración en caso de que al menos uno de ellos lleve coma, Ejemplo: Norberto traerá la lechuga; Sofía, los tomates; Kenia, los rábanos, y Francisco, los pepinos. <br> - Antes de las conjunciones y locuciones conjuntivas adversativas (pero, aunque, mas, sin embargo, no obstante), concesiva (aunque, por más que, aun cuando, si bien) y consecutivas (por conseguiente, luego, así que), si las frases son muy largas. Ejemplos: El tiempo ha estado a nuestro favor; no obstante, aún faltan muchos detalles por arreglar en el mural. Ayer fueron a comprar las pinturas; por conseguiente, tenemos material para trabajar toda la noche.
