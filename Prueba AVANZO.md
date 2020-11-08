@@ -17,17 +17,20 @@
 El triángulo $\text{ABC}$ es un triángulo rectángulo en $\text{C}$; lo usaremos para definir las razones seno, coseno y tangente, del ángulo $\alpha$, correspondiente al vértice $\text{A}$, situado en el centro de la circunferencia.
 
 ![Razones trigonométricas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Trigonometria_aa1.svg/280px-Trigonometria_aa1.svg.png)
--**El seno** (abreviado como sen, o sin por llamarse "sĭnus" en latín) es la razón entre el cateto opuesto al ángulo y la hipotenusa.
+
+- **El seno** (abreviado como sen, o sin por llamarse "sĭnus" en latín) es la razón entre el cateto opuesto al ángulo y la hipotenusa.
 
 $$
   {\displaystyle \sin \alpha ={\frac {\overline {CB}}{\overline {AB}}}}
 $$
--**El coseno** (abreviado como cos) es la razón entre el cateto adyacente o contiguo al ángulo y la hipotenusa.
+
+- **El coseno** (abreviado como cos) es la razón entre el cateto adyacente o contiguo al ángulo y la hipotenusa.
 
 $$
   {\displaystyle \cos \alpha ={\frac {\overline {AC}}{\overline {AB}}}}
 $$
--**La tangente** (abreviado como tan o tg) es la razón entre el cateto opuesto al ángulo y el cateto adyacente.
+
+- **La tangente** (abreviado como tan o tg) es la razón entre el cateto opuesto al ángulo y el cateto adyacente.
 
 $$
   {\displaystyle \tan \alpha ={\frac {\overline {CB}}{\overline {AC}}}={\frac {\overline {DE}}{\overline {AD}}}}
@@ -40,17 +43,20 @@ $$
 ### 1.1.2. Razones trigonométricas inversas
 
 ![Razones trigonométricas inversas](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Trigonometria_ac0.svg/280px-Trigonometria_ac0.svg.png)
--**La cosecante:** (abreviado como csc o cosec) es la razón inversa de seno, o también su inverso multiplicativo:
+
+- **La cosecante:** (abreviado como csc o cosec) es la razón inversa de seno, o también su inverso multiplicativo:
 
 $$
   {\displaystyle \csc \alpha ={\frac {1}{\sin \;\alpha }}={\frac {\overline {AB}}{\overline {CB}}}={\frac {\overline {AG}}{\overline {AF}}}}
 $$
--**La secante:** (abreviado como sec) es la razón inversa de coseno, o también su inverso multiplicativo:
+
+- **La secante:** (abreviado como sec) es la razón inversa de coseno, o también su inverso multiplicativo:
 
 $$
   {\displaystyle \sec \alpha ={\frac {1}{\cos \;\alpha }}={\frac {\overline {AB}}{\overline {AC}}}={\frac {\overline {AE}}{\overline {AD}}}}
 $$
--**La cotangente:** (abreviado como cot o cta o ctg) es la razón inversa de la tangente, o también su inverso multiplicativo:
+
+- **La cotangente:** (abreviado como cot o cta o ctg) es la razón inversa de la tangente, o también su inverso multiplicativo:
 
 $$
   {\displaystyle \cot \alpha ={\frac {1}{\tan \alpha }}={\frac {\overline {AC}}{\overline {CB}}}={\frac {\overline {FG}}{\overline {AF}}}}
@@ -114,7 +120,7 @@ $$
 $$
 
 por tanto:
-kv
+
 $$
   \sin ^{2}\alpha +\cos ^{2}\alpha ={\bigg (}{\dfrac {a}{c}}{\bigg )}^{2}+{\bigg (}{\frac {b}{c}}{\bigg )}^{2}={\frac {a^{2}+b^{2}}{c^{2}}}={\frac {c^{2}}{c^{2}}}=1
 $$
@@ -675,7 +681,7 @@ Al oriente de Sensuntepeque, se está gestionando la construcción de un cemente
 
 Las instancias del Estado deben jugar un papel de protección del medio ambiente, cada día nos enfrentamos a una problemática del agua más crítica, cada vez tenemos menos agua y más contaminada.
 
-Las y los ambientalistas comentarios que la agenda de la sustentabilidad para los Estados sigue siendo un gran desafío, porque violencia es también que asesinen a la naturaleza, la destrucción ambiental es violencia y una mutilación a los derechos humanos”.
+Las y los ambientalistas comentaron que @la agenda de la sustentabilidad para los Estados sigue siendo un gran desafío, porque violencia es también que asesinen a la naturaleza, la destrucción ambiental es violencia y una mutilación a los derechos humanos".
 
 ## 2.24. Aplicación de las leyes de Mendel, características y funciones del material genético[^2.24]
 
@@ -702,7 +708,7 @@ Para cada característica, un organismo hereda dos alelos, uno de cada pariente.
  
 #### 2.24.1.3. TerceraLey de Mendel
 
-Ley de la Recombinación Independiente de los Factores: En ocasiones es descrita como la 2ª Ley. Mendel concluyó que diferentes rasgos son heredados independientemente unos de otros, no existe relación entre ellos, por lo tanto el patrón de herencia de un rasgo no afectará al patrón de herencia de otro. Sólo se cumple en aquellos genes que no están ligados (es decir, que están en diferentes cromosomas) o que están en regiones muy separadas del mismo cromosoma. En este caso la descendencia sigue las proporciones 9:3:3:1. Representándolo con letras, de padres con dos características AALL y aall (donde cada letra representa una característica y la dominancia por la mayúscula o minúscula), por entrecruzamiento de razas puras (1era Ley), aplicada a dos rasgos, resultarían los siguientes gametos: AL + al =AL, Al, aL, al. Al intercambiar entre estos cuatro gametos, se obtiene la proporción 9:3:3:1 AALL, AALl, AAlL, AAll, AaLL, AaLl, AalL, Aall, aALL, aALl, aAlL, aAll, aaLL, aaLl, aalL, aall . Como conclusión tenemos: 9 con "A" y "L" dominantes, tres con "a" y "L", tres con "A" y "l" y una con genes recesivos "aall"
+Ley de la Recombinación Independiente de los Factores: En ocasiones es descrita como la 2ª Ley. Mendel concluyó que diferentes rasgos son heredados independientemente unos de otros, no existe relación entre ellos, por lo tanto el patrón de herencia de un rasgo no afectará al patrón de herencia de otro. Sólo se cumple en aquellos genes que no están ligados (es decir, que están en diferentes cromosomas) o que están en regiones muy separadas del mismo cromosoma. En este caso la descendencia sigue las proporciones 9:3:3:1. Representándolo con letras, de padres con dos características AALL y aall (donde cada letra representa una característica y la dominancia por la mayúscula o minúscula), por entrecruzamiento de razas puras (primera Ley), aplicada a dos rasgos, resultarían los siguientes gametos: AL + al =AL, Al, aL, al. Al intercambiar entre estos cuatro gametos, se obtiene la proporción 9:3:3:1 AALL, AALl, AAlL, AAll, AaLL, AaLl, AalL, Aall, aALL, aALl, aAlL, aAll, aaLL, aaLl, aalL, aall . Como conclusión tenemos: 9 con "A" y "L" dominantes, tres con "a" y "L", tres con "A" y "l" y una con genes recesivos "aall"
 
 # 3. Estudios Sociales y Cívica
 
@@ -766,6 +772,7 @@ En forma general, el método es la manera de alcanzar un objetivo y se define co
 #### 3.3.2.1. La Observación
 
 Es un procedimiento importante en la investigación científica, puede entenderse como “el proceso mediante el cual se perciben deliberadamente ciertos rasgos existentes en la realidad por medio de un esquema conceptual previo y con base en ciertos propósitos definidos generalmente por una conjetura que se quiere investigar”. La observación supone unas condiciones especiales:
+
 - Debe servir para lograr resultados de los objetivos planteados en la investigación.
 - Debe ser planeada de una manera sistemática. El investigador debe definir qué quiere observar y cuáles son sus posibles resultados.
 - Debe ser controlada sistemáticamente por el investigador y estar relacionada con proposiciones teóricas referidas al objeto de investigación. Por ello, quien observa debe conocer a fondo el marco teórico sobre el cual fundamenta su investigación.
