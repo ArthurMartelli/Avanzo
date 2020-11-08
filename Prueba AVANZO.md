@@ -21,19 +21,19 @@ El triángulo $\text{ABC}$ es un triángulo rectángulo en $\text{C}$; lo usarem
 - **El seno** (abreviado como sen, o sin por llamarse "sĭnus" en latín) es la razón entre el cateto opuesto al ángulo y la hipotenusa.
 
 $$
-  {\displaystyle \sin \alpha ={\frac {\overline {CB}}{\overline {AB}}}}
+  \sin \alpha ={\frac {\overline {CB}}{\overline {AB}}}
 $$
 
 - **El coseno** (abreviado como cos) es la razón entre el cateto adyacente o contiguo al ángulo y la hipotenusa.
 
 $$
-  {\displaystyle \cos \alpha ={\frac {\overline {AC}}{\overline {AB}}}}
+  \cos \alpha ={\frac {\overline {AC}}{\overline {AB}}}
 $$
 
 - **La tangente** (abreviado como tan o tg) es la razón entre el cateto opuesto al ángulo y el cateto adyacente.
 
 $$
-  {\displaystyle \tan \alpha ={\frac {\overline {CB}}{\overline {AC}}}={\frac {\overline {DE}}{\overline {AD}}}}
+ |\tan \alpha ={\frac {\overline {CB}}{\overline {AC}}}={\frac {\overline {DE}}{\overline {AD}}}
 $$
 
 #### 1.1.1.1. Representación gráfica
@@ -47,19 +47,19 @@ $$
 - **La cosecante:** (abreviado como csc o cosec) es la razón inversa de seno, o también su inverso multiplicativo:
 
 $$
-  {\displaystyle \csc \alpha ={\frac {1}{\sin \;\alpha }}={\frac {\overline {AB}}{\overline {CB}}}={\frac {\overline {AG}}{\overline {AF}}}}
+ {\displaystyle \csc \alpha ={\frac {1}{\sin \;\alpha }}={\frac {\overline {AB}}{\overline {CB}}}={\frac {\overline {AG}}{\overline {AF}}}}
 $$
 
 - **La secante:** (abreviado como sec) es la razón inversa de coseno, o también su inverso multiplicativo:
 
 $$
-  {\displaystyle \sec \alpha ={\frac {1}{\cos \;\alpha }}={\frac {\overline {AB}}{\overline {AC}}}={\frac {\overline {AE}}{\overline {AD}}}}
+ {\displaystyle \sec \alpha ={\frac {1}{\cos \;\alpha }}={\frac {\overline {AB}}{\overline {AC}}}={\frac {\overline {AE}}{\overline {AD}}}}
 $$
 
 - **La cotangente:** (abreviado como cot o cta o ctg) es la razón inversa de la tangente, o también su inverso multiplicativo:
 
 $$
-  {\displaystyle \cot \alpha ={\frac {1}{\tan \alpha }}={\frac {\overline {AC}}{\overline {CB}}}={\frac {\overline {FG}}{\overline {AF}}}}
+ {\displaystyle \cot \alpha ={\frac {1}{\tan \alpha }}={\frac {\overline {AC}}{\overline {CB}}}={\frac {\overline {FG}}{\overline {AF}}}}
 $$
 
 Normalmente se emplean las relaciones trigonométricas seno, coseno y tangente, y salvo que haya un interés específico en hablar de ellos o las expresiones matemáticas se simplifiquen mucho, los términos cosecante, secante y cotangente no suelen utilizarse
@@ -70,14 +70,14 @@ Normalmente se emplean las relaciones trigonométricas seno, coseno y tangente, 
 
 ### 1.1.3. Equivalencia entre las funciones trigonométricas
 
-| Seno      |          Coseno          |          Tangente          |         Cotangente         |          Secante          |         Cosecante          |
+| Seno   |     Coseno     |     Tangente     |     Cotangente     |     Secante     |     Cosecante     |
 | -------------- | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
-| $\sin\theta\,$ |        $\sin\theta\,$        |     $\sqrt{1-\cos^{2}\theta}$      | $\frac{\tan\theta}{\sqrt{1+\tan^{2}\theta}}$ |   $\frac{1}{\sqrt{1+\cot^{2}\theta}}$   | $\frac{\sqrt{\sec^{2}\theta-1}}{\sec\theta}$ | $\frac{1}{\csc\theta}$            |
-| $\cos\theta\,$ |     $\sqrt{1-\sin^{2}\theta}$      |        $\cos\theta\,$        |   $\frac{1}{\sqrt{1+\tan^{2}\theta}}$   | $\frac{\cot\theta}{\sqrt{1+\cot^{2}\theta}}$ |      $\frac{1}{\sec\theta}$      | $\frac{\sqrt{\csc^{2}\theta-1}}{\csc\theta}$ |
-| $\tan\theta\,$ | $\frac{\sin\theta}{\sqrt{1-\sin^{2}\theta}}$ | $\frac{\sqrt{1-\cos^{2}\theta}}{\cos\theta}$ |        $\tan\theta\,$        |      $\frac{1}{\cot\theta}$      |      $\sqrt{sec^{2}\theta-1}$      | $\frac{1}{\sqrt{\csc^{2}\theta-1}}$     |
-| $\cot\theta\,$ | $\frac{\sqrt{1-\sin^{2}\theta}}{\sin\theta}$ | $\frac{\cos\theta}{\sqrt{1-\cos^{2}\theta}}$ |      $\frac{1}{\tan\theta}$      |        $\cot\theta\,$        |   $\frac{1}{\sqrt{\sec^{2}\theta-1}}$   | $\sqrt{\csc^{2}\theta-1}$          |
-| $\sec\theta\,$ |   $\frac{1}{\sqrt{1-\sin^{2}\theta}}$   |      $\frac{1}{\cos\theta\,}$      |     $\sqrt{1+\tan^{2}\theta}$      | $\frac{\sqrt{1+\cot^{2}\theta}}{\cot\theta}$ |        ${\sec\theta}\,$        | $\frac{\csc\theta}{\sqrt{\csc^{2}\theta-1}}$ |
-| $\csc\theta\,$ |      $\frac{1}{\sin\theta\,}$      |   $\frac{1}{\sqrt{1-\cos^{2}\theta}}$   | $\frac{\sqrt{1+\tan^{2}\theta}}{\tan\theta}$ |     $\sqrt{1+\cot^{2}\theta}$      | $\frac{\sec\theta}{\sqrt{\sec^{2}\theta-1}}$ | ${\csc\theta}\,$               |
+| $\sin\theta\,$ |    $\sin\theta\,$    |   $\sqrt{1-\cos^{2}\theta}$   | $\frac{\tan\theta}{\sqrt{1+\tan^{2}\theta}}$ |  $\frac{1}{\sqrt{1+\cot^{2}\theta}}$  | $\frac{\sqrt{\sec^{2}\theta-1}}{\sec\theta}$ | $\frac{1}{\csc\theta}$      |
+| $\cos\theta\,$ |   $\sqrt{1-\sin^{2}\theta}$   |    $\cos\theta\,$    |  $\frac{1}{\sqrt{1+\tan^{2}\theta}}$  | $\frac{\cot\theta}{\sqrt{1+\cot^{2}\theta}}$ |   $\frac{1}{\sec\theta}$   | $\frac{\sqrt{\csc^{2}\theta-1}}{\csc\theta}$ |
+| $\tan\theta\,$ | $\frac{\sin\theta}{\sqrt{1-\sin^{2}\theta}}$ | $\frac{\sqrt{1-\cos^{2}\theta}}{\cos\theta}$ |    $\tan\theta\,$    |   $\frac{1}{\cot\theta}$   |   $\sqrt{sec^{2}\theta-1}$   | $\frac{1}{\sqrt{\csc^{2}\theta-1}}$   |
+| $\cot\theta\,$ | $\frac{\sqrt{1-\sin^{2}\theta}}{\sin\theta}$ | $\frac{\cos\theta}{\sqrt{1-\cos^{2}\theta}}$ |   $\frac{1}{\tan\theta}$   |    $\cot\theta\,$    |  $\frac{1}{\sqrt{\sec^{2}\theta-1}}$  | $\sqrt{\csc^{2}\theta-1}$     |
+| $\sec\theta\,$ |  $\frac{1}{\sqrt{1-\sin^{2}\theta}}$  |   $\frac{1}{\cos\theta\,}$   |   $\sqrt{1+\tan^{2}\theta}$   | $\frac{\sqrt{1+\cot^{2}\theta}}{\cot\theta}$ |    ${\sec\theta}\,$    | $\frac{\csc\theta}{\sqrt{\csc^{2}\theta-1}}$ |
+| $\csc\theta\,$ |   $\frac{1}{\sin\theta\,}$   |  $\frac{1}{\sqrt{1-\cos^{2}\theta}}$  | $\frac{\sqrt{1+\tan^{2}\theta}}{\tan\theta}$ |   $\sqrt{1+\cot^{2}\theta}$   | $\frac{\sec\theta}{\sqrt{\sec^{2}\theta-1}}$ | ${\csc\theta}\,$        |
 
 ### 1.1.4. Identidades trigonométricas
 
@@ -116,7 +116,7 @@ $$
 Se tiene que:
 
 $$
-  {\displaystyle \sin(\alpha )={\frac {a}{c}}, \qquad \cos(\alpha )={\frac {b}{c}}}
+  \sin(\alpha )={\frac {a}{c}}, \qquad \cos(\alpha )={\frac {b}{c}}
 $$
 
 por tanto:
@@ -227,7 +227,7 @@ Para probar la hipótesis, necesitamos observar o realizar un experimento asocia
 - Si el tostador sí funciona, entonces la hipótesis es viable, y es probable que fuera correcta.
 - Si el tostador no funciona, entonces la hipótesis no es viable, y es probable que fuera incorrecta.
 
-Los resultados del experimento pueden apoyar o contradecir (oponerse) la hipótesis. Los resultados que la respaldan no prueban de manera contundente que es correcta, pero sí que es muy probable que lo sea. Por otro lado, si los resultados contradicen la hipótesis, probablemente esta no sea correcta. A menos que hubiera un defecto en el experimento (algo que siempre debemos considerar), un resultado contradictorio significa que podemos descartar la hipótesis y proponer una nueva.
+Los resultados del experimento pueden apoyar o contradecir (oponerse) la hipótesis. Los resultados que la respaldan no prueban de manera contundente que es correcta, pero sí que es muy probable que lo sea. Por otro lado, si los resultados contradicen la hipótesis, probablemente esta no sea correcta. A menos que haya un defecto en el experimento (algo que siempre debemos considerar), un resultado contradictorio significa que podemos descartar la hipótesis y proponer una nueva.
 
 #### 2.2.1.6. Repite
 El último paso del método científico es reflexionar sobre nuestros resultados y utilizarlos para guiar nuestros siguientes pasos.
@@ -272,9 +272,9 @@ Para restar dos vectores libres $\vec{u}$ y $\vec{v}$ y se suma con el opuesto d
 Las componentes del vector resta se obtienen restando las componentes de los vectores.
 
 $$
-    \vec{u} = (u_1, u_2), \quad \vec{v} = (v_1, v_2)
-    \\\:\\
-    \vec{u} - \vec{v} = (u_1 - v_1, u_2 - v_2)
+  \vec{u} = (u_1, u_2), \quad \vec{v} = (v_1, v_2)
+  \\\:\\
+  \vec{u} - \vec{v} = (u_1 - v_1, u_2 - v_2)
 $$
 
 ## 2.6. Aplicación de las Leyes de Newton del movimiento, en situaciones reales[^2.6]
@@ -286,33 +286,33 @@ Ley de inercia: Un conductor de una patineta choca con un objeto inmóvil de man
 La relación entre fuerza y aceleración: La aceleración es directamente proporcional a la magnitud de la fuerza resultante. Así, si se duplica la fuerza, la aceleración se duplica; si se triplica la fuerza, se triplica la aceleración. Por otro lado, la aceleración es inversamente proporcional a la masa del cuerpo que se acelera.
 
 $$
-    F = ma
+  F = ma
 $$
 
-Ley de acción y reacción: La ley de acción y reacción de Newton afirma que si un cuerpo actúa sobre otro con una fuerza (acción), este reacciona contra aquél con otra fuerza de igual valor y dirección, pero de sentido contrario (reacción).
+Ley de acción y reacción: La ley de acción y reacción de Newton afirma que si un cuerpo actúa sobre otro con una fuerza (acción), éste reacciona contra aquél con otra fuerza de igual valor y dirección, pero de sentido contrario (reacción).
 
 
 ## 2.7. Características del movimiento rectilíneo uniformemente variado[^2.7]
 
-Un movimiento es rectilíneo uniformemente variado, cuando la trayectoria del móvil es una linea recta y su velocidad  varia la misma cantidad en cada unidad de tiempo
+Un movimiento es rectilíneo uniformemente variado, cuando la trayectoria del móvil es una línea recta y su velocidad varia la misma cantidad en cada unidad de tiempo
  
 En forma abreviada, el movimiento rectilíneo uniformemente variado se anota así (M.R.U.V.)
  
-Se puede decir que a diferencia del movimiento rectilíneo uniforme que la distancia recorrida son iguales por cada intervalo de tiempo igual,  en el movimiento rectilíneo uniformemente variado las distancias recorridas son diferentes por intervalo de tiempo igual.Esto hace que la velocidad varíe en su módulo (rapidez) y la razón de está variación de velocidad por unidad de tiempo se llama aceleración.
+Se puede decir que a diferencia del movimiento rectilíneo uniforme que la distancia recorrida son iguales por cada intervalo de tiempo igual, en el movimiento rectilíneo uniformemente variado las distancias recorridas son diferentes por intervalo de tiempo igual.Esto hace que la velocidad varíe en su módulo (rapidez) y la razón de esta variación de velocidad por unidad de tiempo se llama aceleración.
 
 Como cada carro representa la posición del móvil en cada unidad del tiempo, significa que el móvil aumenta su velocidad en cada unidad de tiempo.
-En forma general. A este tipo de movimiento, en que la velocidad aumenta en cada unidad de tiempo, se le llama movimiento uniformemente acelerado.
+En forma general. A este tipo de movimiento, en el que la velocidad aumenta en cada unidad de tiempo, se le llama movimiento uniformemente acelerado.
 
 $$
-    x = x_0 + v_0t + \frac{a t^2}{2}, \quad v = v_0 + at, \quad v^2 = v_0^2 + 2ad
+  x = x_0 + v_0t + \frac{a t^2}{2}, \quad v = v_0 + at, \quad v^2 = v_0^2 + 2ad
 $$
 
 ## 2.8. Diferencia entre temperatura y calor en fenómenos cotidianos[^2.8]
 
-El calor es energía (midiendose en Joules, Calorías, etc.), mientras que la temperatura es una medida del grado o nivel térmico de un cuerpo (midiendose en grados Centígrados, Fahrenheit o Kelvin).
+El calor es energía (midiéndose en Joules, Calorías, etc.), mientras que la temperatura es una medida del grado o nivel térmico de un cuerpo (midiéndose en grados Centígrados, Fahrenheit o Kelvin).
 
 $$
-    Q = mc \Delta T
+  Q = mc \Delta T
 $$
 
 ### 2.8.1. Ejemplo
@@ -361,29 +361,29 @@ La tabla periódica de los elementos es una disposición de los elementos quími
 
 ### 2.11.1. Propiedades periódicas
 
-Son las características que tienen los elementos y que varían en tonna  
-secuencia] por grupos y períodos. Algunas de esas propiedades son: radio  
-atómico, potencial de ionización, electronegatividad, estructura electrónica,  
+Son las características que tienen los elementos y que varían en tonna 
+secuencia] por grupos y períodos. Algunas de esas propiedades son: radio 
+atómico, potencial de ionización, electronegatividad, estructura electrónica, 
 afinidad electrónica, valencia iónica, carácter metálico.
 
-- Estructura electrónica: es la distribución de los electrones del átomo en los  
-diferentes niveles y subniveles de energía. Todos los elementos de un período  
-tienen sus electrones más externos en el mismo nivel de energía. Los elementos  
-de un grupo comparten la configuración electrónica externa teniendo, por lo  
+- Estructura electrónica: es la distribución de los electrones del átomo en los 
+diferentes niveles y subniveles de energía. Todos los elementos de un período 
+tienen sus electrones más externos en el mismo nivel de energía. Los elementos 
+de un grupo comparten la configuración electrónica externa teniendo, por lo 
 tanto, propiedades químicas semejantes.	
-- Electronegatividad: es la tendencia que tiene un elemento de atraer los  
-electrones de enlace de otros elementos. En la tabla periódica, la  
-electronegalividad aumenta en los periodos de izquierda a derecha y los  
+- Electronegatividad: es la tendencia que tiene un elemento de atraer los 
+electrones de enlace de otros elementos. En la tabla periódica, la 
+electronegatividad aumenta en los periodos de izquierda a derecha y los 
 grupos, de abajo hacia arriba.	
-- Radio atómico: los electrones se ubican en diferentes niveles alrededor del  
-núcleo y el radio atómico es la distancia, más probable, que existe entre los  
-electrones de la última capa y el núcleo. La expresión probable se debe a que  
+- Radio atómico: los electrones se ubican en diferentes niveles alrededor del 
+núcleo y el radio atómico es la distancia, más probable, que existe entre los 
+electrones de la última capa y el núcleo. La expresión probable se debe a que 
 los electrones no describen órbitas cerradas. Disminuye a lo largo del periodo y
 aumenta de arriba hacia abajo dentro de un grupo de la tabla.
-- Potencial de ionización: es la energía necesaria para quitar un electrón a un  
-átomo neutro, convirtiéndolo en un catión. Depende de la energía con la que el  
-elemento en cuestión atraiga a sus electrones. En un grupo, el valor disminuye  
-de arriba hacia abajo. En un período, aumenta desde la izquierda hacia la  
+- Potencial de ionización: es la energía necesaria para quitar un electrón a un 
+átomo neutro, convirtiéndolo en un catión. Depende de la energía con la que el 
+elemento en cuestión atraiga a sus electrones. En un grupo, el valor disminuye 
+de arriba hacia abajo. En un período, aumenta desde la izquierda hacia la 
 derecha.
 
 ![Propiedades periódicas](https://www.abc.com.py/resizer/ABL-H3wICaMmrT4HT8I_DSTURzs=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/3OHZSSBDIJCN5IEUSIZLQMK33E.jpg)
@@ -410,7 +410,7 @@ Se refiere a un tipo de enlace covalente en que se unen dos elementos con el mis
 #### 2.12.2.2. Enlace covalente polar
 
 En este tipo de enlace covalente, en realidad el más usual, los átomos que se unen son de distintos elementos. Ambos poseen una electronegatividad semejante aunque no idéntica, con lo que tienen diferentes cargas eléctricas. Tampoco en este caso se pierden electrones en ninguno de los átomos, sino que los comparten.
-Dentro de este subgrupo también encontramos los enlaces covalentes bipolares, en que existe un átomo dador que comparte los electrones y otro u otros receptores que se benefician de dicha incorporación.
+Dentro de este subgrupo también encontramos los enlaces covalentes bipolares, en los que existe un átomo dador que comparte los electrones y otro u otros receptores que se benefician de dicha incorporación.
 
 Cosas tan básicas e imprescindibles para nosotros como el agua o la glucosa se forman a partir de este tipo de enlace.
 
@@ -422,10 +422,10 @@ Asimismo, este tipo de enlace se vincula a la conductividad eléctrica propia de
 
 ## 2.13. La concentración y propiedades de las soluciones[^2.13]
 
-Solución química: es una mezcla homogénea de dos o más sustancias. La sustancia disuelta se denomina soluto y está presente generalmente  en pequeña cantidad, en  comparación con la sustancia donde se disuelve denominada solvente. En cualquier discusión de soluciones, el primer requisito consiste en poder especificar sus composiciones, esto es, las cantidades relativas de soluto y solvente. También se le puede nombrar como disolución.
+Solución química: es una mezcla homogénea de dos o más sustancias. La sustancia disuelta se denomina soluto y está presente generalmente en pequeña cantidad, en comparación con la sustancia donde se disuelve denominada solvente. En cualquier discusión de soluciones, el primer requisito consiste en poder especificar sus composiciones, esto es, las cantidades relativas de soluto y solvente. También se le puede nombrar como disolución.
 
 $$
-    \text{solución:} \quad \text{soluto} + \text{solvente}
+  \text{solución:} \quad \text{soluto} + \text{solvente}
 $$
 
 La concentración de una solución expresa la relación de la cantidad de soluto a la cantidad de solvente. Las soluciones poseen una serie de propiedades que las caracterizan:
@@ -442,7 +442,7 @@ La concentración de una solución expresa la relación de la cantidad de soluto
 
 ## 2.14. interpretación de las representaciones simbólicas de las reacciones químicas[^2.14]
 
-Una reacción química se representa mediante una ecuación química: en el primer miembro aparecen las fórmulas de las sustancias que reaccionan (reactivos) y en el segundo miembro aparecen las fórmulas de las sustancias que se forman (productos), y están separados por una flecha si la reacción es irreversible. Además de las fórmulas de las sustancias, deben aparecer los denominados coeficientes estequiométricos. También se indican el estado de agregación de la materia entre paréntesis (sólido, líquido o gas) y el hecho de si la sustancia es un precipitado, si se encuentra en solución acuosa, si se presenta un gas liberado, etc.
+Una reacción química se representa mediante una ecuación química: en el primer miembro aparecen las fórmulas de las sustancias que reaccionan (reactivos) y en el segundo miembro aparecen las fórmulas de las sustancias que se forman (productos), y están separadas por una flecha si la reacción es irreversible. Además de las fórmulas de las sustancias, deben aparecer los denominados coeficientes estequiométricos. También se indican el estado de agregación de la materia entre paréntesis (sólido, líquido o gas) y el hecho de si la sustancia es un precipitado, si se encuentra en solución acuosa, si se presenta un gas liberado, etc.
 
 ### 2.14.1. Partes de una reacción química
 
@@ -454,7 +454,7 @@ Una reacción química se representa mediante una ecuación química: en el prim
 
 ## 2.15. Balanceo de ecuaciones por el método del tanteo[^2.15]
 
-Los cambios químicos siguen una ley universal  también conocida como principio o ley de conservación de la materia:
+Los cambios químicos siguen una ley universal también conocida como principio o ley de conservación de la materia:
 
 > La materia no se crea ni se destruye, solo se transforma
 
@@ -476,7 +476,7 @@ La Temperatura afecta a la velocidad de la reacción. Una mayor temperatura impl
 
 En casi todas las reacciones, una mayor temperatura implica una mayor velocidad de reacción.
 
-A una temperatura T1, una cierta fracción de moléculas poseen suficiente energía cinética para reaccionar, i.e. EC > Ea A una mayor temperatura T2, una fracción mayor de moleculas poseen la energía necesaria y la reacción se produce a mayor velocidad.
+A una temperatura T1, una cierta fracción de moléculas poseen suficiente energía cinética para reaccionar, i.e. EC > Ea A una mayor temperatura T2, una fracción mayor de moléculas poseen la energía necesaria y la reacción se produce a mayor velocidad.
 
 Una Energía de Activación alta corresponde a una velocidad de reacción muy sensible a la temperatura y al revés, una Energía de Activación pequeña corresponde a una velocidad de reacción relativamente insensible a cambios de temperatura.
 
@@ -499,7 +499,7 @@ Los alcanos, alquenos y alquinos son grupos funcionales de moléculas alifática
 
 ### 2.18.1. Alcanos
 
-También conocidos como hidrocarburos saturados, son cadenas alifáticas de carbonos e hidrógenos, que se encuentran enlazados solo por enlaces covalentes sencillos, se nombran con los prefijos listados anteriormente con la terminación ano, ejemplos de ellos son: metano, butano y heptano. La cantidad de átomos de hidrógeno se puede identificar, si se conoce el número de carbonos (n) presentes en la molécula, tal como se muestra en el siguiente ejemplo:
+También conocidos como hidrocarburos saturados, son cadenas alifáticas de carbonos e hidrógenos, que se encuentran enlazados solo por enlaces covalentes sencillos, se nombran con los prefijos listados anteriormente con la terminación *-ano*, ejemplos de ellos son: metano, butano y heptano. La cantidad de átomos de hidrógeno se puede identificar, si se conoce el número de carbonos (n) presentes en la molécula, tal como se muestra en el siguiente ejemplo:
 
 - CH4: metano
 - C5H12: pentano
@@ -509,7 +509,7 @@ En este ejemplo, el metano tiene 1 átomo de carbono y 4 de hidrógeno, el penta
 
 ### 2.18.2. Alquenos
 
-También los pueden nombrar como hidrocarburos insaturados, son cadenas alifáticas de carbonos que pueden presentar uno, dos, o más dobles enlaces. Estos dobles enlaces son consecuencia de la pérdida de hidrógenos por la molécula, que para equilibrarse energéticamente establece dobles enlaces entre los átomos de carbono. Su notación en química orgánica utiliza los prefijos mostrados anteriormente y la terminación eno, así ejemplos de alquenos son: buteno, penteno y octeno. El número de átomos de hidrógeno puede calcularse en función del número de átomos de carbono en la molécula.
+También los pueden nombrar como hidrocarburos insaturados, son cadenas alifáticas de carbonos que pueden presentar uno, dos, o más dobles enlaces. Estos dobles enlaces son consecuencia de la pérdida de hidrógenos por la molécula, que para equilibrarse energéticamente establece dobles enlaces entre los átomos de carbono. Su notación en química orgánica utiliza los prefijos mostrados anteriormente y la terminación *-eno*, así ejemplos de alquenos son: buteno, penteno y octeno. El número de átomos de hidrógeno puede calcularse en función del número de átomos de carbono en la molécula.
 
 - C2H4: eteno
 - C4H8: buteno
@@ -519,7 +519,7 @@ En el ejemplo anterior, se observa que el eteno tiene 2 átomos de carbono y 4 d
 
 ### 2.18.3. Alquinos
 
-A estos también los puedes llamar hidrocarburos insaturados, son cadenas alifáticas de carbonos que pueden presentar uno, dos o más triples enlaces. Los triples enlaces se forman al deshidrogenar dos átomos de carbono que ya están enlazados entre sí por un doble enlace. Se nombran utilizando los prefijos usados anteriormente y la terminación ino, por ejemplo: propino, pentino o nonino.
+A estos también los puedes llamar hidrocarburos insaturados, son cadenas alifáticas de carbonos que pueden presentar uno, dos o más triples enlaces. Los triples enlaces se forman al deshidrogenar dos átomos de carbono que ya están enlazados entre sí por un doble enlace. Se nombran utilizando los prefijos usados anteriormente y la terminación *-ino*, por ejemplo: propino, pentino o nonino.
 
 - C2H2: etino (acetileno)
 - C4H6: butino
@@ -584,7 +584,7 @@ La membrana celular está formada principalmente por lípidos o grasas, en parti
 
 Embebida en esta capa de lípidos se encuentran canales o pasadizos de proteínas. Gracias a estos canales o transportadores ingresan sustancias necesarias para el metabolismo y salen iones o productos de desecho.
 
-Es por esto que la membrana es semipermeable, solo permite el paso de algunas sustancias hacia el interior y desde el interior de la célula.
+Es por esto que la membrana es semipermeable, sólo permite el paso de algunas sustancias hacia el interior y desde el interior de la célula.
 
 #### 2.21.1.1. Citoplasma
 
@@ -631,11 +631,11 @@ Las células vegetales tienen diversas características, entre las que se pueden
 - Hay dos tipos de plastos según su estructura, los primarios se encuentran en un gran número de plantas y algas; los secundarios son más complejos y forman parte del plancton.
 - Cloroplastos: son orgánulos característicos de las células eucariotas que se ocupan de la fotosíntesis. Estos convierten la energía lumínica en energía química. Además, contienen una sustancia de color verde llamada clorofila que da ese pigmento a las plantas.
 - Leucoplastos: son los plastos encargados de almacenar las sustancias incoloras. Convierte la glucosa en proteínas o grasas.
-- Cromoplastos: son un tipo de plastos que almacenan los colores de las algunas flores y frutas.
+- Cromoplastos: son un tipo de plastos que almacenan los colores de algunas flores y frutas.
 - Aparato de Golgi: conjunto de dictiosomas, sacos de forma aplanada y organizados uno sobre el otro. Su función es producir, almacenar y distribuir sustancias.
 - Ribosomas: orgánulos responsables de sintetizar las proteínas.
 - Retículo endoplasmático: membranas distribuidas en el citoplasma que rodean el núcleo. Hay dos tipos de retículos endoplasmáticos, lisos y rugosos. A través de estas membranas se transportan sustancias que participan en la síntesis de proteínas y lípidos.
-- Mitocondrias: orgánulos de gran tamaño y envueltos en membranas, donde se realiza la respiración celular a través de la cual se produce el ATP (Trisfosfato de adenosina).
+- Mitocondrias: orgánulos de gran tamaño y envueltos en membranas, donde se realiza la respiración celular a través de la cual se produce el ATP (trifosfato de adenosina).
 - Membrana celular: es una bicapa delgada de lípidos y proteínas que envuelve la célula. En su superficie tiene unos poros diminutos a través de los cuales intercambia sustancias con la parte exterior.
 - Núcleo celular: se encuentra en el centro de la célula y posee gran parte del contenido genético en forma de ADN. El núcleo es el centro de control de todo lo que sucede en la célula.
 
@@ -663,7 +663,7 @@ Agregaron también que cada día hay protestas por falta de agua y de la calidad
 
 Comentan que en el país hay proyectos de muerte que se están desarrollando a nivel nacional, que ponen el peligro la vida de las personas y los ecosistemas, como las urbanizaciones, cementerios, carreteras, sin un ordenamiento territorial adecuado, agregando al escenario los impactos del cambio climático.
 
-Es por ello que se exigen al gobierno central, que a pesar que hay leyes vigentes como: Ley Forestal, Ley de Riego y Avenamiento y Ley de Medio Ambiente, estas no se positivicen, que a pesar de su debilidad no se cumplen adecuadamente.
+Es por ello que se exige al gobierno central, que a pesar que hay leyes vigentes como: Ley Forestal, Ley de Riego y Avenamiento y Ley de Medio Ambiente, estas no se positivicen, que a pesar de su debilidad no se cumplen adecuadamente.
 
 Dieron como ejemplo que “hay una Ley de ANDA donde se hace un cobro por el uso del agua a la población, pero con las empresas, funciona que ellas mandan el dato de cuánta agua utilizan y de acuerdo a ello les cobra ANDA” argumentaron.
 
@@ -671,9 +671,9 @@ Otro ejemplo de incumplimiento de Ley “No puede ser que haya una Ley de Riego 
 
 Las y los ambientalistas, sostienen que quien tiene la mayor deuda ambiental es la Asamblea Legislativa, ya que tienen 13 años esperando una Ley de Agua, una Ley de Soberanía y Seguridad Alimentaria, reformas a la constitución para reconocer el agua y la alimentación como derecho humano, la prohibición de agrotóxicos, una Ley de Cambio Climático, que cada vez impacta con más fuerza al país.
 
-Con respecto al Órgano Judicial la Corte Suprema de Justicia, comentan estar de acuerdo con el trabajo que están desempeñando los juzgados ambientales, pero que todavía hace falta información para que población conozca el trabajo que realiza esta institución.
+Con respecto al Órgano Judicial la Corte Suprema de Justicia, comentan estar de acuerdo con el trabajo que están desempeñando los juzgados ambientales, pero que todavía hace falta información para que la población conozca el trabajo que realiza esta institución.
 
-A la Fiscalía se denuncia una negligencia que se debe judicializar casos de deforestación y contaminación, y que parece que a la Fiscalía sólo le interesan casos como violencia y extorción y no los que tienen que ver con el tema ambiental.
+A la Fiscalía se denuncia una negligencia que se debe judicializar casos de deforestación y contaminación, y que parece que a la Fiscalía sólo le interesan casos como violencia y extorsión y no los que tienen que ver con el tema ambiental.
 
 Sobre un caso concreto de destrucción ambiental se comenta en caso de la construcción del cementerio de Sensuntepeque.
 
@@ -714,28 +714,28 @@ Ley de la Recombinación Independiente de los Factores: En ocasiones es descrita
 
 ## 3.1. Las Ciencias Sociales y su objeto de estudio[^3.1]
 
-Lo que caracteriza la actividad cognitiva del científico es la búsqueda y el descubrimiento de las leyes por las que se rige el universo o las sociedades e individuos humanos. Así, por ejemplo, los físicos y astrónomos pretenden hallar, al cabo de sus investigaciones, las leyes matemáticas que describen adecuadamente los movimientos de determinados cuerpos celestes. Iqualmente, un biólogo investiga las leyes seqún las cuales se transmiten, por ejemplo, caracteres hereditarios en una cierta especie. Se puede decir, en general, que la ciencia ha alcanzado un alto grado de madurez cuando es capaz de formular leyes matematicas que le permiten predecir con la mayor exactitud posible el comportamiento de los objetos con los que trabaja. La gran posibilidad que las leyes cientificas aportan a los seres humanos es la de hacer predicciones.
+Lo que caracteriza la actividad cognitiva del científico es la búsqueda y el descubrimiento de las leyes por las que se rige el universo o las sociedades e individuos humanos. Así, por ejemplo, los físicos y astrónomos pretenden hallar, al cabo de sus investigaciones, las leyes matemáticas que describen adecuadamente los movimientos de determinados cuerpos celestes. Igualmente, un biólogo investiga las leyes según las cuales se transmiten, por ejemplo, caracteres hereditarios en una cierta especie. Se puede decir, en general, que la ciencia ha alcanzado un alto grado de madurez cuando es capaz de formular leyes matemáticas que le permiten predecir con la mayor exactitud posible el comportamiento de los objetos con los que trabaja. La gran posibilidad que las leyes científicas aportan a los seres humanos es la de hacer predicciones.
 
-En el siglo XVIII, gracias a que la Ilustración había colocado en el centro de la reflexión a la razón, nació, con autonomía, el análisis de los temas sociales, en lo que hoy se conoce como ciencias sociales. En esta época se comienzan a estudar disciplinas como la historia, la geografía, la sociología y otras. Las ciencias sociales siguen desarrollandose, y debido a la complejidad de lo social, siempre están abiertas a nuevas disciplinas.
+En el siglo XVIII, gracias a que la Ilustración había colocado en el centro de la reflexión a la razón, nació, con autonomía, el análisis de los temas sociales, en lo que hoy se conoce como ciencias sociales. En esta época se comienzan a estudiar disciplinas como la historia, la geografía, la sociología y otras. Las ciencias sociales siguen desarrollándose, y debido a la complejidad de lo social, siempre están abiertas a nuevas disciplinas.
 
-Podemos decir que las ciencias sociales son aquellas que estudian la convivencia social y las diversas estructuras de las relaciones de los seres humano, con la finalidad de investigar las leyes que rigen los fenómenos humanos en un ámbito determinado de la sociedad.
+Podemos decir que las ciencias sociales son aquellas que estudian la convivencia social y las diversas estructuras de las relaciones de los seres humanos, con la finalidad de investigar las leyes que rigen los fenómenos humanos en un ámbito determinado de la sociedad.
 
 En sí, las ciencias sociales se diferencian de las naturalez en el objeto de estudio (éstas estudian las relaciones de los hombres entre sí, mientras que las otras estudian los procesos, cambios y transformaciones de la materia tal como se presentan en la naturaleza), en el método y las técnicas de investigación, y en la posición y papel del científico.
 
-Los Estudios Sociales son un conjunto de métodos y técnicas que poseen las Ciencias Sociales para estudiar a los seres humanos, sus relaciones sociales y naturales, para conocer y analizar sus problemáticas y presentar posibles soluciones.
+Los Estudios Sociales son un conjunto de métodos y técnicas que poseen las Ciencias Sociales para estudiar a los seres humanos, sus relaciones sociales y naturalez, para conocer y analizar sus problemáticas y presentar posibles soluciones.
 
 Entre las ciencias sociales se encuentran: la economía, la antropología, la historia, la geografía humana, la psicología social y, por supuesto, la sociología.
 
 ### 3.1.1. Objeto de estudio
 
-Las ciencias sociales buscan comprender la realidad en la que vive v se desarrolla el ser humano en sociedad y sus instituciones, a través de estudios disciplinados y sistemáticos. Su objeto de estudio son los fenómenos sociales, entendidos en su más amplia concepción: los procesos humanos en sociedad, sus causas, consecuencias, factores y variables que influyen debido al comportamiento en conjunto.
+Las ciencias sociales buscan comprender la realidad en la que vive y se desarrolla el ser humano en sociedad y sus instituciones, a través de estudios disciplinados y sistemáticos. Su objeto de estudio son los fenómenos sociales, entendidos en su más amplia concepción: los procesos humanos en sociedad, sus causas, consecuencias, factores y variables que influyen debido al comportamiento en conjunto.
 
 Las ciencias sociales analizan la realidad social que impacta en la sociedad y lo hacen a través de preguntas. Estas interrogantes son el problema que buscará resolver el investigador o investigadora social, a lo que propondrá una respuesta provisoria (hipótesis), que buscará confirmar o rechazar por medio de la recopilación de datos y el análisis de los mismos. Con los diferentes métodos de investigación que se pueden encontrar para este tipo de estudio, el investigador o investigadora social pretende:
--Explicar fenómenos sociales, procesos históricos y diferentes sucesos que marcan precedencia como sociedad.-Conocer al sujeto social en su contexto: espacio, tiempo y cultura.-Poder presentar de manera entendible a la sociedad las causas de las realidades que viven, dar a conocer los hechos en si mismos y poder extraer consecuencias de ese proceso social.-Finalmente, prever alqunos escenarios sociales futuros (aunque sea muy provisoriamente), para poder evitar etectos nocivos y propiciar cambios.
+-Explicar fenómenos sociales, procesos históricos y diferentes sucesos que marcan precedencia como sociedad.-Conocer al sujeto social en su contexto: espacio, tiempo y cultura.-Poder presentar de manera entendible a la sociedad las causas de las realidades que viven, dar a conocer los hechos en mísmos y poder extraer consecuencias de ese proceso social.-Finalmente, prever algunos escenarios sociales futuros (aunque sea muy provisoriamente), para poder evitar efectos nocivos y propiciar cambios.
 
 ## 3.2. Las dificultades del conocimiento científico sobre la realidad social[^3.2]
 
-El conociemiento exacto de un comportamiento futuro implica una riqueza enorme de posibles aplicaciones prácticas (técnicas) de los avances del conocimiento humano. Ciertamente esta exactitud se logra más fácilmente en las ciencias naturales que en las ciencias humanas y sociales. Dados una serie de datos, por ejemplo, sobre los movimientos de los planetas en el sistema solar, podemos predecir con gran precisión el momento en que se producirá un eclipse de sol. 
+El conocimiento exacto de un comportamiento futuro implica una riqueza enorme de posibles aplicaciones prácticas (técnicas) de los avances del conocimiento humano. Ciertamente esta exactitud se logra más fácilmente en las ciencias naturalez que en las ciencias humanas y sociales. Dados una serie de datos, por ejemplo, sobre los movimientos de los planetas en el sistema solar, podemos predecir con gran precisión el momento en que se producirá un eclipse de sol. 
 
 En otras ciencias, como la economía o la sociología, que trabajan con fenómenos humanos, es más difícil la formulación de leyes tan rigurosas: no es fácil predecir una crisis económica o una revolución social. Pero no cabe duda de que, a pesar de tales limitaciones, la intención de los científicos sociales es también la de descubrir las leyes que rigen los fenómenos humanos y sociales; y el acierto en un buen número de sus pronósticos atestigua que tal descubrimiento se logra, al menos parcialmente.
 
@@ -745,7 +745,7 @@ En otras ciencias, como la economía o la sociología, que trabajan con fenómen
 
 Según el nivel de conocimiento científico (observación, descripción, explicación) al que espera llegar el investigador, se debe formular el tipo de estudio, es decir de acuerdo al tipo de información que espera obtener, así como el nivel de análisis que deberá realizar. También se tendrán en cuenta los objetivos y las hipótesis planteadas con anterioridad. Los estudios se clasifican en:
 
-#### 3.3.1.1. Clasificaión de los estudios de Investigación
+#### 3.3.1.1. Clasificación de los estudios de Investigación
 
 Diseño experimentales. En ellos el investigador desea comprobar los efectos de una intervención específica, en este caso el investigador tiene un papel activo, pues lleva a cabo una intervención.
 
@@ -759,11 +759,11 @@ Otra dimensión importante se refiere al empleo que hace el estudio de la dimens
 
 En los estudios de cohorte, se examina un determinado fenómeno en el curso del tiempo recurriendo a una particular subpoblación (por lo general, un grupo de población o cohorte de determinadas edades). Los estudios longitudinales en los cuales se interroga dos o más veces a una misma muestra de sujetos se conocen como estudios de segmentos. De similar modo, los estudios de seguimiento estudian en dos o más momentos a los mismos sujetos, quienes por lo general han recibido un tratamiento o comparten una particular característica de interés; el seguimiento persigue, así, estudiar su desarrollo subsecuente. Los estudios longitudinales suelen ser costosos, requieren una mayor inversión de tiempo y conllevan numerosas dificultades como la atricción (pérdida de sujetos con el tiempo); sin embargo, frecuentemente resultan de gran valor, en virtud de la información que arrojan.
 
-La investigación busca elucidar las relaciones causa­efecto. Los estudios no experimentales emplean, para este propósito, diseños retrospectivos o prospectivos. En los diseños retrospectivos, el investigador observa la manifestación de algún fenómeno (v. dependiente) e intenta identificar retrospectivamente sus antecedentes o causas (v. independiente). Los estudios prospectivos se inician con la observación de ciertas causas presumibles y avanzan longitudinalmente en el tiempo a fin de observar sus consecuencias. La investigación prospectiva se inicia, por lo común, después de que la investigación retrospectiva ha producido evidencia importante respecto a determinadas relaciones causales.
+La investigación busca elucidar las relaciones causa-­efecto. Los estudios no experimentales emplean, para este propósito, diseños retrospectivos o prospectivos. En los diseños retrospectivos, el investigador observa la manifestación de algún fenómeno (v. dependiente) e intenta identificar retrospectivamente sus antecedentes o causas (v. independiente). Los estudios prospectivos se inician con la observación de ciertas causas presumibles y avanzan longitudinalmente en el tiempo a fin de observar sus consecuencias. La investigación prospectiva se inicia, por lo común, después de que la investigación retrospectiva ha producido evidencia importante respecto a determinadas relaciones causales.
 
-### 3.3.2. Metodos de investigación
+### 3.3.2. Métodos de investigación
 
-Los métodos, técnicas e instrumentos son herramientas metodológicas de la investigación, que permiten desarrollar las diferentes etapas de los procesos de la invesgación científica. Su implementación se facilita logrando con efectividad los objetivos que se pretenden alcanzar en estudio de un proyecto.
+Los métodos, técnicas e instrumentos son herramientas metodológicas de la investigación, que permiten desarrollar las diferentes etapas de los procesos de la investigación científica. Su implementación se facilita logrando con efectividad los objetivos que se pretenden alcanzar en el estudio de un proyecto.
 
 En forma general, el método es la manera de alcanzar un objetivo y se define como un determinado procedimiento para ordenar una actividad. Se puede decir que el método es el camino que se sigue para lograr el conocimiento objetivo de la realidad de un fenómeno de estudio. Esto se refiere a criterios generales que orientan el trabajo del investigador a obtener un conocimiento objetivo de la realidad de un estudio de investigación.
 
@@ -783,7 +783,7 @@ La inducción consiste en ir de los casos particulares a la generalización; se
 
 #### 3.3.2.3. Análisis y síntesis
 
-Análisis y síntesis son procesos que permiten al investigador conocer la realidad. El análisis maneja juicios, es un proceso de conocimiento que se inicia por la identificación de cada una de las partes que caracterizan una realidad, podrá establecer la relación causa­efecto entre los elementos que componen el objeto de investigación. La síntesis considera los objetos como un todo, la interrelación de los elementos que identifican el objeto. El método que emplea el análisis y la síntesis consiste en separar el objeto de estudio en dos partes y, una vez comprendida su esencia, construir un todo. Análisis y síntesis son dos procesos que se complementan en uno.
+Análisis y síntesis son procesos que permiten al investigador conocer la realidad. El análisis maneja juicios, es un proceso de conocimiento que se inicia por la identificación de cada una de las partes que caracterizan una realidad, podrá establecer la relación causa-­efecto entre los elementos que componen el objeto de investigación. La síntesis considera los objetos como un todo, la interrelación de los elementos que identifican el objeto. El método que emplea el análisis y la síntesis consiste en separar el objeto de estudio en dos partes y, una vez comprendida su esencia, construir un todo. Análisis y síntesis son dos procesos que se complementan en uno.
 
 ### 3.3.3. Técnicas de investigación
 
@@ -796,18 +796,18 @@ Análisis y síntesis son procesos que permiten al investigador conocer la reali
 ## 3.4. Antecedentes de los Acuerdos de Paz: Los diálogos de la Palma, Ayagualo y La Nunciatura[^3.4]
 
 La firma del Acuerdo de Paz fue precedida de un proceso de negociación que
-arrancó casí tan lejos como la propia querra salvadoreña, si se considera como inicio de negociación la propuesta que el gobierno del presidente Carter formuló al FMLN a finales de 1980, un poco antes de que el conflicto bélico estallara abiertamente a partir de la ofensiva general del FMLN, el 10 de enero de 1981.
+arrancó casi tan lejos como la propia guerra salvadoreña, si se considera como inicio de negociación la propuesta que el gobierno del presidente Carter formuló al FMLN a finales de 1980, un poco antes de que el conflicto bélico estallara abiertamente a partir de la ofensiva general del FMLN, el 10 de enero de 1981.
 
 Es a partir de la invitación que el presidente Duarte formuló al FMLN-FDR para reunirse en La Palma (Chalatenango), en octubre de 1984, que el gobierno salvadoreño admite, implícitamente, la legitimidad del movimiento revolucionario como parte beligerante y, consecuentemente, como interlocutor para buscarle una salida política al conflicto. La invitación de Duarte constituyó a la vez la aceptación oficial de la legitimidad del diálogo mismo como mecanismo para encontrarle una solución negociada al conflicto.
 
-En la práctica, el presidente Duarte contaba con márgenes muy estrechos para negociar. Si bien su iniciativa contó con el apoyo verbal de la Administración Reagan y del Alto Mando de la Fuerza Armada, de hecho estos poderes le impusieron límites y condiciones, que disminuyeron ostensiblemente los márgenes de negociación de equipo gubernamental.
+En la práctica, el presidente Duarte contaba con márgenes muy estrechos para negociar. Si bien su iniciativa contó con el apoyo verbal de la Administración Reagan y del Alto Mando de la Fuerza Armada, de hecho estos poderes le impusieron límites y condiciones, que disminuyeron ostensiblemente los márgenes de negociación del equipo gubernamental.
 
 Además, Duarte tuvo que enfrentar a lo largo de toda su presidencia la oposición de la derecha civil, que controlaba la mayor parte del aparato productivo y la mayoría de los medios de comunicación. Por otro lado, el FMLN sostenía posiciones y exigencias maximalistas, para las cuales no había posibilidades de realización. En el fondo, ambas partes beligerantes confiaban aún en sus fuerzas para lograr una victoria militar sobre su oponente.
 
 | Lugar-Fecha | Tema tratado | Acuerdos obtenidos |
 | ------------- | ------------ | ------------------ |
-La Palma, Chalatengango <br> 15/10/1986 | La incorporación del FMLN al proceso democrático y la preparación de la próxima consulta popular. Las propuestas de solución del conflicto salvadoreño. <br> El gobierno y las fuerzas armadas solicitaron al FMLN el abandono de las armas para poder convertirse en partido político. Al FDR le pidieron participar en las proximas elecciones legislativas. <br> El FMLN proponía el reparto del poder político para formar un gobierno de transición que hiciera concretas las reformas económicas y sociales que llevarían a la paz social. | Creación de una comisión mixta creada por cuatro delegados del gobierno y cuatro del FMLN-FDR para que estudiaran las propuestas de paz, presentadas por las partes del conflicto. <br> Participación del FMLN en las elecciones como partido político.
-Ayagualo, La Libertad <br> 30/11/1984 | La resolución del Conflicto Armado. El FDR-FMLN propuso tres fases para solucionar el conflicto armado y el PDC propuso que el FMLN depusiera las armas; que se incorporara a la democrática social salvadoreña y participará como partido político en las próximas elecciones. <br> El FMLN-FDR solicitaron el fin de la ingerencia estadounidense. <br> La reinstalación y repatriación de los refugiados. <br> Fusión del FMLN y al <br> Fuerza Armada para formar la Fuerza Armada Nacional. <br> Humanización de la guerra. | Crear las normas de la comisión mixta. <br> Permitir la evacuación de los discapacitados de guerra del FMLN. <br> Continuar el diálogo. <br> Permitir durante la 13 días la movilización libre de personas y vehículos.
+La Palma, Chalatenango <br> 15/10/1986 | La incorporación del FMLN al proceso democrático y la preparación de la próxima consulta popular. Las propuestas de solución del conflicto salvadoreño. <br> El gobierno y las fuerzas armadas solicitaron al FMLN el abandono de las armas para poder convertirse en partido político. Al FDR le pidieron participar en las próximas elecciones legislativas. <br> El FMLN proponía el reparto del poder político para formar un gobierno de transición que hiciera concretas las reformas económicas y sociales que llevarían a la paz social. | Creación de una comisión mixta creada por cuatro delegados del gobierno y cuatro del FMLN-FDR para que estudiaran las propuestas de paz, presentadas por las partes del conflicto. <br> Participación del FMLN en las elecciones como partido político.
+Ayagualo, La Libertad <br> 30/11/1984 | La resolución del Conflicto Armado. El FDR-FMLN propuso tres fases para solucionar el conflicto armado y el PDC propuso que el FMLN depusiera las armas; que se incorporara a la democrática social salvadoreña y participará como partido político en las próximas elecciones. <br> El FMLN-FDR solicitaron el fin de la injerencia estadounidense. <br> La reinstalación y repatriación de los refugiados. <br> Fusión del FMLN y al <br> Fuerza Armada para formar la Fuerza Armada Nacional. <br> Humanización de la guerra. | Crear las normas de la comisión mixta. <br> Permitir la evacuación de los discapacitados de guerra del FMLN. <br> Continuar el diálogo. <br> Permitir durante 13 días la movilización libre de personas y vehículos.
 La Nunciatura <br> 4 - 5/10/1987 | Solución política del conflicto. <br> Posición sobre la no violencia. <br> El perdón y olvido. <br> Acuerdos específicos para buscar una salida política. <br> Implantación del proceso de diálogo y comunicación. <br> Posibilidad de continuidad del diálogo. | Apoyar las gestiones de paz de los presidentes de América Central <br> Crear dos comisiones para preparar los acuerdos sobre alto al fuego y los puntos de Esquipulas II; dichas comisiones estarían integradas por cuatro integrantes del gobierno, PPS, Fuerza Armada y representantes del FMLN-FD.
 
 ## 3.5. Los factores que hicieron posibles los Acuerdos de Paz: internos y externos[^3.5]
@@ -824,20 +824,20 @@ La Nunciatura <br> 4 - 5/10/1987 | Solución política del conflicto. <br> Posic
 
 ## 3.11. El sindicalismo salvadoreño en el Siglo XX: orígenes y desarrollo histórico[^3.11]
 
-# 4. Lenguaje y Litveratura
+# 4. Lenguaje y Literatura
 
 ## 4.1. El clasicismo griego. Epopeyas homéricas: características, valores y recursos[^4.1]
 
-La poesìa épica exaltaba las hazañas de los hèroes y los dioses. En su origen, los poemas eran cantados por un aedo o cantor que viajaba de pueblo en pueblo y tenìa un fuerte vìnculo con la nobleza 
+La poesía épica exaltaba las hazañas de los héroes y los dioses. En su origen, los poemas eran cantados por un aedo o cantor que viajaba de pueblo en pueblo y tenìa un fuerte vìnculo con la nobleza 
 
 ### 4.1.1. Características
 
-- Las obras se inspiran en mitos. Sus historia giran alrededor del ciclo troyano o ciclo tebano.
-- El destino es inevitable en sus historias. Destaca Edipo, quien es destinado a matar a su padre y con todos los giros de la trama, esto llega a suceder inevitalemente.
+- Las obras se inspiran en mitos. Sus historias giran alrededor del ciclo troyano o ciclo tebano.
+- El destino es inevitable en sus historias. Destaca Edipo, quien es destinado a matar a su padre y con todos los giros de la trama, esto llega a suceder inevitablemente.
 - La búsqueda de la belleza mediante la armonía entre forma y fondo: El estilo está determinado por el tema. Por ejemplo, la epopeya requiere un lenguaje elevado; la tragedia, un lenguaje solemne y la comedia, un lenguaje coloquial.
 - La literatura griega clásica tiene también un fin didáctico ya que posee un afán de inculcar valores.
 - Es racional: Los dioses y personajes no se mueven casualmente ni de milagro, sino a causa de motivos o razones, todo está sistematizado.
-- Esta literatura es también antropomórfica, ya que sus personajes tienen cualidades humanas, incluso los dioses tienen estas caracterísitcas, ya que se alimentan, beben e incluso tienen un mundo psicológico, tal como los humanos.
+- Esta literatura es también antropomórfica, ya que sus personajes tienen cualidades humanas, incluso los dioses tienen estas características, ya que se alimentan, beben e incluso tienen un mundo psicológico, tal como los humanos.
 
 ### 4.1.2. Valores
 
@@ -852,9 +852,9 @@ La literatura griega empezó con la Ilíada y la Odisea, atribuidas ambas a Home
 
 ## 4.2. La tragedia griega: características, valores y obras representativas[^4.2]
 
-Las primeras representaciones teatrales fueron tragedias y en ellas se escenificaban los episodios y temas mitológicos. se ponían así en escenas hecho de la vida de los héroe caracterizados por el sufrimiento, la grandeza, el dolor y la catástrofe.
+Las primeras representaciones teatrales fueron tragedias y en ellas se escenificaban los episodios y temas mitológicos. Se ponían así en escenas hecho de la vida de los héroes caracterizados por el sufrimiento, la grandeza, el dolor y la catástrofe.
 
-### 4.2.1. Caracteristicas
+### 4.2.1. Características
 
 - Por lo general, este escrito apuntaba a que los textos debían estar centrados en una temática dolorosa y que tuviera como objetivo conocer mejor al ser humano
 - Por supuesto, una de las características de la tragedia griega más destacadas es la existencia del coro.
@@ -872,8 +872,8 @@ Las primeras representaciones teatrales fueron tragedias y en ellas se escenific
 
 - Exaltación de la grandeza individual.
 - Realismo e idealismo moral. 
-- Exaltacion de la moral.
-- Exaltacion de la religion.
+- Exaltación de la moral.
+- Exaltación de la religión.
 
 ### 4.2.4. Obras representativas
 
@@ -905,9 +905,9 @@ Las primeras representaciones teatrales fueron tragedias y en ellas se escenific
 
 ## 4.3. La épica medieval: características, valores y obras representativas[^4.3]
 
-Los cantares de gesta contaban las hazañas legendarias del héroe de un pueblo, quien es puesto como modelo o arquetipo de conducta. los juglares cantaban las narraiones; luego, circularon algunas versiones escritas. 
+Los cantares de gesta contaban las hazañas legendarias del héroe de un pueblo, quien es puesto como modelo o arquetipo de conducta. los juglares cantaban las narraciones; luego, circularon algunas versiones escritas. 
 
-### 4.3.1. Caracteristicas
+### 4.3.1. Características
 
 - Un héroe que ha de conseguir un ideal y se ve obstaculizado en su viaje.
 - Tal ideal es un ejemplo moral para una comunidad.
@@ -918,9 +918,9 @@ Los cantares de gesta contaban las hazañas legendarias del héroe de un pueblo,
 ### 4.3.2. Valores
 
 - Lealtad
-- Heroismo 
-- Valentia
-- honor
+- Heroísmo 
+- Valentía
+- Honor
 
 ### 4.3.3. Obras representativas
 
@@ -936,11 +936,11 @@ Durante el Renacimiento, surge en España una corriente de renovación religiosa
 - La ascética es un camino que el alma debe seguir mediante la oración y el sacrificio para lograr su perfeccionamiento y percibir a dios.
 - La mística es un estado de perfección en el que el alma, purificada, se une con dios. En poesía su representante es san juan de la cruz y en prosa, santa teresa de jesús.
 
-### 4.4.1. Caracteristicas
+### 4.4.1. Características
 
 - La característica más acusada de la mística española es su carácter ecléctico, armonizador entre tendencias extremas.
 - Tiene un único tema que es la búsqueda de Dios, que se identifica con el amor.
-- Se utiliza versos y estrofas italinizantes sobre todo la lira aunque a veces recurre al octosílabo.
+- Se utiliza versos y estrofas italianizantes sobre todo la lira aunque a veces recurre al octosílabo.
 - Sencillo y huyendo de toda artificiosidad.
 - Metáforas y las figuras retóricas del mismo modo son simples.
 
@@ -968,7 +968,7 @@ Durante el Siglo de Oro español apareció un subgénero narrativo que fue total
 - Tono satírico: Otra de las grandes características de la novela picaresca es que estos textos están escritos con un tono satírico y con una gran presencia del humor. Mediante esta voz humorística se consigue lanzar una voraz crítica a la sociedad de la época y, también, a la gran hipocresía que hay en todas las capas y los estamentos. Por eso, entre los autores que cultivan este género, hay un gran uso de la ironía
 - Lenguaje coloquial e informal: Debido a que el protagonista de las novelas suele ser una persona de condición social baja y marginada, estas obras suelen estar escritas con un lenguaje muy coloquial. Recordemos que, como ya hemos dicho, estas novelas suelen estar presentadas en primera persona, emulando una autobiografía, por tanto, para poder reflejar la condición social del personaje, se usa un lenguaje adaptado a su realidad.
  
-## 4.6. Obras representativas
+### 4.5.2. Obras representativas
 
 - Vida del Lazarillo de Tormes y de sus fortunas y adversidades.
 - Mateo Alemán, Guzmán de Alfarache.
@@ -977,156 +977,156 @@ Durante el Siglo de Oro español apareció un subgénero narrativo que fue total
 - Juan Cortés de Tolosa, Lazarillo de Manzanares.
 - Juan de Luna, Segunda parte del Lazarillo de Tormes.
 
-## 4.7. La novela picaresca en Europa
+### 4.5.3. La novela picaresca en Europa
 
 - Inglaterra: Vida de Jack Wilton de Thomas Nashe, Fortunas y adversidades de la famosa Moll Flanders de Daniel Defoe, La historia de Tom Jones de Henry Fielding.
 - Francia: La novela cómica de Paul Scarron.
 - Holanda: El español de Brabante de Gerbrand Adriaensz Bredero.
-- Alemania: Historia verdadera de Isaac Winkelfelder y Jobst von der Schneid de Nikolaus Ulenhart, El aventurero Simplicíssimus de Hans Jakob Christoph von Grimmelshausen.
+- Alemania: Historia verdadera de Isaac Winkel Felder y Jobst von der Schneid de Nikolaus Ulenhart, El aventurero Simplicissimus de Hans Jakob Christoph von Grimmelshausen.
 
-## 4.8. EI Barroco español, culteranismo y conceptismo. Características y representantes[^4.6]
+## 4.6. EI Barroco español, culteranismo y conceptismo. Características y representantes[^4.6]
 
-Originalmente, la palabra barroco tenía un sentido despectivo y aludía al aml gusto y la proporción desmesurada. Sin embargo, se utilizó para nombrar un estilo artístico del siglo XVII gracias a esa cualidad de exageración y de contraste.
+Originalmente, la palabra barroco tenía un sentido despectivo y aludía al mal gusto y la proporción desmesurada. Sin embargo, se utilizó para nombrar un estilo artístico del siglo XVII gracias a esa cualidad de exageración y de contraste.
 
-### 4.8.1. Culteranismo
+### 4.6.1. Culteranismo
 
-Busca la belleza formal mediante el uso de cultismos y ña creación de un lenguaje artificioso. Su principal representante es Luis de Góngora.
+Busca la belleza formal mediante el uso de cultismos y lea creación de un lenguaje artificioso. Su principal representante es Luis de Góngora.
 
-### 4.8.2. Conceptismo
+### 4.6.2. Conceptismo
 
-Se basa en el ingenio: son frecuentes la ironía, la paradoja, la caricatura, el doble sentido, el uso de la frase corta, elritmo rápido, la abundancia de antítesis y contrastes, el uso de la hipérbole, la invención de nuevos términos e ingeniosos juegos de conceptos y palabras. Su representante es Francisco de Quenvedo y Villegas.
+Se basa en el ingenio: son frecuentes la ironía, la paradoja, la caricatura, el doble sentido, el uso de la frase corta, el ritmo rápido, la abundancia de antítesis y contrastes, el uso de la hipérbole, la invención de nuevos términos e ingeniosos juegos de conceptos y palabras. Su representante es Francisco de Quenvedo y Villegas.
 
-### 4.8.3. Características
+### 4.6.3. Características
  
 - Búsqueda de lo nuevo y lo extraordinario.
 - La transgresión a las normas clásicas.
-- El gusto por lo desmesurado (Excesiva, mayor de lo común.)
+- El gusto por lo desmesurado (excesivo, mayor de lo común.)
 - El uso de contrastes y figuras literarias retorcidas.
 - La distintas concepción de la lengua literaria da lugar a dos corrientes.
 
-### 4.8.4. Representantes
+### 4.6.4. Representantes
 
-#### 4.8.4.1. Lope de vega (1562 – 1635)
+#### 4.6.4.1. Lope de vega (1562 – 1635)
 
 - Fuenteovejuna.
 - La dama boba.
 - Obras líricas.
 
-#### 4.8.4.2. Miguel de Cervantes (1547 – 1616)
+#### 4.6.4.2. Miguel de Cervantes (1547 – 1616)
 
 - Don Quijote de la Mancha.
 - Novela Ejemplares.
 - La Galatea.
 - La Gitanilla.
 
-#### 4.8.4.3. Francisco de Quevedo (1580 – 1645)
+#### 4.6.4.3. Francisco de Quevedo (1580 – 1645)
 
 - La antología Primera parte de las flores de poetas ilustres de España.
 - El Parnaso español.
 - Las Tres Musas Últimas Castellanas.
 
-#### 4.8.4.4. Luis de Góngora y Argote (1561 – 1627)
+#### 4.6.4.4. Luis de Góngora y Argote (1561 – 1627)
 
--  El Polifemo.
--  Las Soledades.
--  Romance.
+- El Polifemo.
+- Las Soledades.
+- Romance.
 
-#### 4.8.4.5. Pedro Calderon de la Barca (1547 – 1616)
+#### 4.6.4.5. Pedro Calderon de la Barca (1547 – 1616)
 
 - La vida es sueño.
 - El Alcalde de Zalamea.
 - El Gran Teatro del Mundo.
 - La Dama Duende
 
-### 4.8.5. Francisco de Quevedo y Villegas 
+### 4.6.5. Francisco de Quevedo y Villegas 
 
 - Sueños y discursos.
 - El chitón de las tarabillas.
 
-### 4.8.6. Luis de Góngora
+### 4.6.6. Luis de Góngora
 
-- La fábula de Polifermo y Galetea,
+- La fábula de Polifermo y Galatea,
 - Las soledades.
 
-## 4.9. Shakespeare y las pasiones humanas. Obras representativas[^4.7]
+## 4.7. Shakespeare y las pasiones humanas. Obras representativas[^4.7]
 
-### 4.9.1. Shakespeare
+### 4.7.1. Shakespeare
 
-Shakespeare era parte de la burguesía naciente, que veía el mundo con un mentalidad bastente liberal y humanista; sin embargo, ciertas actitudes del pueblo no parecían agradarle. A pesar de su época y lo reflejó en sus obras. Mostró la corrupción tanto en los goberantes como en las clases populares, y la decadencia moral que el Estado no era capaz de contener.
+Shakespeare era parte de la burguesía naciente, que veía el mundo con una mentalidad bastante liberal y humanista; sin embargo, ciertas actitudes del pueblo no parecían agradarle. A pesar de su época y lo reflejó en sus obras. Mostró la corrupción tanto en los gobernantes como en las clases populares, y la decadencia moral que el Estado no era capaz de contener.
 
-### 4.9.2. Las pasiones humanas
+### 4.7.2. Las pasiones humanas
 
-El teatro europeo había retomado las ideas clásicas de que las acciones de los personajes de una obra teatral perseguían lograr un objetivo. A diferencia de la Europa católica, los ingleses se setían con mayor libertad para explorar los motores internos de los actos humanos, los conflictos de conciencia y los impulsos subjetivos que llevan a tomar decisiones. Por ello, cada obra de Shakespeare implica un abordaje de una determinada gama de pasiones.
+El teatro europeo había retomado las ideas clásicas de que las acciones de los personajes de una obra teatral perseguían lograr un objetivo. A diferencia de la Europa católica, los ingleses se sentían con mayor libertad para explorar los motores internos de los actos humanos, los conflictos de conciencia y los impulsos subjetivos que llevan a tomar decisiones. Por ello, cada obra de Shakespeare implica un abordaje de una determinada gama de pasiones.
 
-### 4.9.3. Obras
+### 4.7.3. Obras
 
-#### 4.9.3.1. Tragedia
+#### 4.7.3.1. Tragedia
 
 - Romeo y Julieta.
 - Hamlet.
 - El rey Lear.
 - Otelo y Macbeth.
 
-#### 4.9.3.2. Comedias
+#### 4.7.3.2. Comedias
 
 - Sueño de una noche de verano.
 - Los dos caballeros de Verona.
 - Trabajos de amor perdidos.
 
-#### 4.9.3.3. Dramas históricos
+#### 4.7.3.3. Dramas históricos
 
 - Ricardo III.
 - Enrique V.
-- El rey juan.
+- El rey Juan.
 
-#### 4.9.3.4. Tragicomedias de conflicto
+#### 4.7.3.4. Tragicomedias de conflicto
 
-- El mercader de Venencia.
-- Bien esta lo que bien acaba.
+- El mercader de Venecia.
+- Bien está lo que bien acaba.
 - El cuento de invierno.
 
-## 4.10. Miguel de Cervantes y EL Quijote. Características de la cultura y sociedad española de la época[^4.8]
+## 4.8. Miguel de Cervantes y EL Quijote. Características de la cultura y sociedad española de la época[^4.8]
 
-## 4.11. Cultura
+## 4.9. Cultura
 
-- Se debia de tener permiso de la corona para poder publicar una obra, tambien se debia de ser autorizado por la iglesia católica.
+- Se debía de tener permiso de la corona para poder publicar una obra, también se debía de ser autorizado por la iglesia católica.
 - Se garantiza por medio de la corona y la iglesia católica no atentara contra la doctrina.
 
-## 4.12. Identificación de ideas principales y secundarias; tema, propósito y mensaje, en diferentes tipos de textos[^4.9]
+## 4.10. Identificación de ideas principales y secundarias; tema, propósito y mensaje, en diferentes tipos de textos[^4.9]
 
-### 4.12.1. Ideas pincipales y secundarias
+### 4.10.1. Ideas principales y secundarias
 
 Las ideas principales son ideas que expresan una información básica para el desarrollo del tema que se trata. Las ideas secundarias expresan detalles o aspectos derivados del tema principal. A menudo, estas ideas sirven para ampliar, demostrar o ejemplificar una idea principal.
 
-### 4.12.2. Tema
+### 4.10.2. Tema
 
 Describe el asunto tratado en el texto de una manera superficial; es decir, es el nombre general del texto.
 
-### 4.12.3. Propósito y mensaje
+### 4.10.3. Propósito y mensaje
 
 - Las ideas principales y secundarias de un texto son los mensajes, jerárquicamente codificados, que contiene un escrito. Estas ideas tienen por objetivo transmitir una información; vienen a significar cada una de las premisas que sustentan las microestructuras y macroestructuras de un discurso textual.
 - Al ser aplicadas concreta y enfáticamente en un texto, las ideas principales y secundarias denotan un dominio pleno del idioma por parte del emisor lírico. Su uso correcto garantiza que el fin mismo del acto de la escritura, la comunicación, se alcance con mayor facilidad.
 
-### 4.12.4. diferentes tipos de textos
+### 4.10.4. diferentes tipos de textos
 
-## 4.13. identificación de figuras literarias: metáfora, prosopopeya, hipérbole, aliteración, símil y anáfora[^4.10]
+## 4.11. identificación de figuras literarias: metáfora, prosopopeya, hipérbole, aliteración, símil y anáfora[^4.10]
 
-### 4.13.1. Metáfora:
+### 4.11.1. Metáfora:
 
-La metafora es una figura de significación o tropo que consiste en trasadar el significado de un término real (TR) por un término imaginario (TI) con el que guarda alguna semejanza. Puede haber de varios tipos:
+La metáfora es una figura de significación o tropo que consiste en trasadar el significado de un término real (TR) por un término imaginario (TI) con el que guarda alguna semejanza. Puede haber de varios tipos:
 
-#### 4.13.1.1. Metafora pura:
+#### 4.11.1.1. Metáfora pura:
 
 Solo se expresa el término imaginario; el real se deduce del contexto.
 Ejemplo: Su sonrisa de perlas. (perlas, término imaginario en reemplazo de dientes, el término real)
 
-#### 4.13.1.2. Metafora impura:
+#### 4.11.1.2. Metáfora impura:
 
-Se expresan tanto el término imaginario comoel real. Ejemplo: Ella estaba triste, y de sus ojos brotaban lágrimas de cristal.
+Se expresan tanto el término imaginario como el real. Ejemplo: Ella estaba triste, y de sus ojos brotaban lágrimas de cristal.
 
-#### 4.13.1.3. Metáfora de segundo grado:
+#### 4.11.1.3. Metáfora de segundo grado:
 
-Supone una metáfora anterior. El término real es, a su vez, el termino imaginario de otra metáfora.
+Supone una metáfora anterior. El término real es, a su vez, el término imaginario de otra metáfora.
 
 > Caballito negro. <br>
 > ¿Dónde llevas tu jinete muerto?
@@ -1137,178 +1137,180 @@ Supone una metáfora anterior. El término real es, a su vez, el termino imagina
 > sus negro ijares <br>
 > clavándole estrellas.
 
-#### 4.13.1.4. Metáfora impresionista o descriptiva:
+#### 4.11.1.4. Metáfora impresionista o descriptiva:
 
-Cuenta con varios términos imaginario yuxtapuestos. Ejemplo: La Metáfora impresionista o descriptiva tiene la estructura R, I, I, I, I...; Tus dientes (R), marfil (I), blancura (I), destellos de sol (I)...
+Cuenta con varios términos imaginarios yuxtapuestos. Ejemplo: La Metáfora impresionista o descriptiva tiene la estructura R, I, I, I, I...; Tus dientes (R), marfil (I), blancura (I), destellos de sol (I)...
 
-### 4.13.2. Prosopopeya
+### 4.11.2. Prosopopeya
 
 La prosopopeya o personificación es una figura literaria que consiste en atribuir cualidades o habilidades humanas (como el pensamiento, el razonamiento o el habla) a las cosas inanimadas. Por ejemplo: El viento susurraba sin descanso.
 
-### 4.13.3. Hipérbole
+### 4.11.3. Hipérbole
 
 Exageración magnificadora o degradante. Ejemplo: Te dije mil veces que laves los platos después de comer.
 
-### 4.13.4. Alitaración
+### 4.11.4. Alitaración
 
 La aliteración es un recurso literario que tiene como característica la repetición sucesiva de un determinado sonido con el objetivo de producir cierto efecto. Por ejemplo: La dama no ama al amo. 
 
-### 4.13.5. Símil
+### 4.11.5. Símil
 
 El símil, también llamado comparación, es una figura retórica que sirve como medio para establecer una relación entre un elemento real y otro imaginario o figurado. Por ejemplo: Era fría como un témpano. 
 
-### 4.13.6. Anáfora
+### 4.11.6. Anáfora
 
 La anáfora es un elemento del discurso que se utiliza en referencia de algo que ya se dijo. Por ejemplo: La directora dijo que la llames. El pronombre “la” está refiriendo a algo que ya se dijo (“la directora”).
 
-## 4.14. Contenido y estructura de la poesía: métrica, rima y licencias poéticas[^4.11]
+## 4.12. Contenido y estructura de la poesía: métrica, rima y licencias poéticas[^4.11]
 
 La poesía es el género literario cuyo fin es la expresión artística de la belleza,
 mediante el uso de la palabra. Es un arte literario que se escribe en verso
-condiferentes rimas y cuyo contenido alude a los sentimientos de quien lo escribe.
+con diferentes rimas y cuyo contenido alude a los sentimientos de quien lo escribe.
 
-### 4.14.1. Estructura
+### 4.12.1. Estructura
 
 La métrica: es el conjunto de regularidades formales y sistemáticas que caracterizan la poesía versificada. Dicho de otra forma, lo que hace que un verso sea un verso (a diferencia de la prosa) puede ser considerado de métrica. Cuando se trata de prosa, se trata de prosa rítmica. El estudio métrico comprende tres partes fundamentales: el verso, la estrofa y el poema. La métrica también es la cantidad de sílabas en las que se divide un verso.
 
-Rima: Hay dos tipos de rima en la poesía española, la asonancia y la consonancia. En los dos casos, la rima se basa en el final del verso poético desde la última vocal acentuada. En la rima asonante, sólo se riman las vocales, así que "casa" y "drama" se riman porque las dos palabras terminan en a – a. Cuando se describe la rima asonante, normalmente se denotan sólo las vocales: a – a, e – i, etc. A veces no se riman todos los versos; por ejemplo en el romance se riman sólo se riman (en asonancia) los versos pares. En la rima consontante, todos los sonidos, vocales y consonantes, se riman: "casa" y "basa." Cuando se describe la rima consonante, se usa un sistema de letras para simbolizar todos los sonidos que se riman
+Rima: Hay dos tipos de rima en la poesía española, la asonancia y la consonancia. En los dos casos, la rima se basa en el final del verso poético desde la última vocal acentuada. En la rima asonante, sólo se riman las vocales, así que "casa" y "drama" se riman porque las dos palabras terminan en a – a. Cuando se describe la rima asonante, normalmente se denotan sólo las vocales: a – a, e – i, etc. A veces no se riman todos los versos; por ejemplo en el romance se riman sólo se riman (en asonancia) los versos pares. En la rima consonante, todos los sonidos, vocales y consonantes, se riman: "casa" y "basa." Cuando se describe la rima consonante, se usa un sistema de letras para simbolizar todos los sonidos que se riman
 
-Las licencias poéticas: son los recursos que tiene el poeta para ajustar sus versos a una medida y a una rima determinadas. Esta licencias son importantes para el escritor porque permite otorgale rasgos en cuanto a la forma de su creación, dándole características estilísticas propias del autor y con ello darle la belleza que puede llegar a poseer el texto poético.
+Las licencias poéticas: son los recursos que tiene el poeta para ajustar sus versos a una medida y a una rima determinadas. Estas licencias son importantes para el escritor porque permite otorgarle rasgos en cuanto a la forma de su creación, dándole características estilísticas propias del autor y con ello darle la belleza que puede llegar a poseer el texto poético.
 
-### 4.14.2. Elementos del proceso de la comunicación[^4.12]
+### 4.12.2. Elementos del proceso de la comunicación[^4.12]
 
-Emisor: Persona que produce un mensaje en un momento dado. No se refiere a un mero codificador o un transmisor mecánico de infromación, sino a un sujeto real con ideas, creencias, actitudes, prejuicios, etc.
+Emisor: Persona que produce un mensaje en un momento dado. No se refiere a un mero codificador o un transmisor mecánico de información, sino a un sujeto real con ideas, creencias, actitudes, prejuicios, etc.
 
-Destinatario: Persona al que el receptor dirige su enunciado. Este término se refiere aun sujeto en una situación comunicativa, y no a mecanismos de codificación. No se considera como tal a alguien que capta por casualidad una conversación.
+Destinatario: Persona al que el receptor dirige su enunciado. Este término se refiere a un sujeto en una situación comunicativa, y no a mecanismos de codificación. No se considera como tal a alguien que capta por casualidad una conversación.
 
-- Enunciado: Es la expresión linguística que produce el emisor. Puede ser una simple interjección (¡Cuidado!), como una oracion o un párrafo. No tiene límites gramaticales.
+- Enunciado: Es la expresión lingüística que produce el emisor. Puede ser una simple interjección (¡Cuidado!), como una oración o un párrafo. No tiene límites gramaticales.
 - Entorno o contexto: Es la situación espacial-temporal que imponen el aquí y el ahora de la comunicación, incluye la cultura, las circunstancias históricas, y todo los hechos o circunstancias que afectan al emisor o al destinatario.
 
-## 4.15. Funciones del lenguaje[^4.13]
+## 4.13. Funciones del lenguaje[^4.13]
 
-El lenguaje se usa con distintos propósitos o intenciones. Cada uno de estos se concreta en las funciones del lenguaje. En un enunciado pueden aparecer varias funciones comunicativas, pero una de ellas es la predoniminante.
+El lenguaje se usa con distintos propósitos o intenciones. Cada uno de estos se concreta en las funciones del lenguaje. En un enunciado pueden aparecer varias funciones comunicativas, pero una de ellas es la predominante.
 
-### 4.15.1. Representativa
+### 4.13.1. Representativa
 
 En general, el lenguaje se usa para presentar objetos. Cuando en una conversación se dice que Kenny está en su casa, la palabra Kenny representa a una persona sin que ella esté presente; lo mismo sucede con la palabra casa. Las palabras son símbolos que están en lugar de los objetos.
 
-### 4.15.2. Imaginativa
+### 4.13.2. Imaginativa
 
-Su intención es transmitir una realidad inventada. A diferencia de la referencial realidad a la que hace alusión no existe independiente del emisor. Ejemplo: En un lejano bosque, habitaba un dragon llamado Flamir. predomina en extos literarios y míticos, como novelas, cuentos y leyendas.
+Su intención es transmitir una realidad inventada. A diferencia de la referencial realidad a la que hace alusión no existe independiente del emisor. Ejemplo: En un lejano bosque, habitaba un dragón llamado Flamir. predomina en textos literarios y míticos, como novelas, cuentos y leyendas.
 
-### 4.15.3. Metalinguística
+### 4.13.3. Metalingüística
 
-Implica usar el lenguaje para referirse al lenguaje mismo. Ejemplo: (Ganado) es una palabram aguda que no va tildada. Los diccionarios y las gramáicas son textos predominantemente metalinguísticos, pues tratan sobre el lenguaje y su uso.
+Implica usar el lenguaje para referirse al lenguaje mismo. Ejemplo: (Ganado) es una palabra aguda que no va tildada. Los diccionarios y las gramáticas son textos predominantemente metalingüísticos, pues tratan sobre el lenguaje y su uso.
 
-### 4.15.4. Fática o de contacto
+### 4.13.4. Fática o de contacto
 
-El requisito básico para la comunicación es el contacto entre un emisor y un destinatario del mensaje. La función fática se da cuando la finalidad del enunciado es iniciar, mantener o terminar esa relación. Se hace evidente en frases como: ¡Hola! ¡Que pacer saludarte! ¡Aló! ¿Me oyes? No te escucho. ¡Hasta pronto! ¿Me entienden?, Jóvenes.
+El requisito básico para la comunicación es el contacto entre un emisor y un destinatario del mensaje. La función fática se da cuando la finalidad del enunciado es iniciar, mantener o terminar esa relación. Se hace evidente en frases como: ¡Hola! ¡Que placer saludarte! ¡Aló! ¿Me oyes? No te escucho. ¡Hasta pronto! ¿Me entienden?, Jóvenes.
 
-## 4.16. Apelativa o conativa
+### 4.13.5. Apelativa o conativa
 
-El lenguaje con función apelativa o conativa se caracterisza por su propósito de modificar el comportamiento del receptor. Es decir, por intentar conseguir que el destinatario del mensaje se comporte de una determinada manera.
+El lenguaje con función apelativa o conativa se caracteriza por su propósito de modificar el comportamiento del receptor. Es decir, por intentar conseguir que el destinatario del mensaje se comporte de una determinada manera.
 
-### 4.16.1. Expresiva o emotiva
+### 4.13.6. Expresiva o emotiva
 
-El lenguaje cumple con estas función cuando se utiliza para expresar emociones, es decir, cuando sirve para manisfestar el estado de ánimo del hablante. Si bien la expresividad constituye un componente casi constante del habla, esa puede también comunicarse por medios escritos. En el primer caso es más espontánea que en elk segundo. Las palabras funcionan más que como signos, como síntomas de su estado de ánimo. Ejemplos: Me encanta tu forma de vestir. Destesto cuando el tiempo está así. No obstante, puede formar parte de textos Líricos, Dramáticos, cartas, correos y mensajería instantánea.
+El lenguaje cumple con estas función cuando se utiliza para expresar emociones, es decir, cuando sirve para manifestar el estado de ánimo del hablante. Si bien la expresividad constituye un componente casi constante del habla, esta puede también comunicarse por medios escritos. En el primer caso es más espontánea que en el segundo. Las palabras funcionan más que como signos, como síntomas de su estado de ánimo. Ejemplos: Me encanta tu forma de vestir. Detesto cuando el tiempo está así. No obstante, puede formar parte de textos Líricos, Dramáticos, cartas, correos y mensajería instantánea.
 
-### 4.16.2. Poética o estética
+### 4.13.7. Poética o estética
 
-Se centra en el mensaje. Pore una parte, consiste el desplazar el significado propio de una palabra para sustituirlo por uno nuevo. Por ejemplo, en la frases Mi viaje se convirtío en 20 días de cardo, la palabra cardo pasa de significar una planta con hojas grandes y espinosas a referirse sufrimiento.
+Se centra en el mensaje. Por una parte, consiste en desplazar el significado propio de una palabra para sustituirlo por uno nuevo. Por ejemplo, en la frase "mi viaje se convirtió en 20 días de cardo", la palabra cardo pasa de significar una planta con hojas grandes y espinosas a referirse al sufrimiento.
 
-## 4.17. Estructura de la oración simple[^4.14]
+## 4.14. Estructura de la oración simple[^4.14]
 
-![](img/len/Estructura%20de%20la%20oración%20simple.jpg)
+![](https://lh3.googleusercontent.com/proxy/SVOBeoTjkYWwdKHYyZ7-cb5DDUjWxUSGhyfijChya6q2hC_Ms_VGlvdzJ6OVUKe0CB2a494SPjz3ojbVYsd_xJxxtJacJ2RkMrFZIHQfyUghhDjDTPvXR84zsXMwZTpQ2FBcAbxHyqgLHKWcA3q70efqHw1-pdvzVQs52SbwIX9wclF9ZKBdwZct2Ihk_mTpbRXMEdR4y6kjYCDiK-_-OrzvAZR0jCw9vXTkXBZVzTnWeVYFaio4KyiyQlA3=w1200-h630-p-k-no-nu)
 
-## 4.18. Sujeto: núcleo y adyacentes[^4.15]
+## 4.15. Sujeto: núcleo y adyacentes[^4.15]
 
-![](img/len/Sujeto%20núcleo%20y%20adyacentes.jpg)
+![](https://image.slidesharecdn.com/laoracin-170205180155/95/la-oracin-4-638.jpg?cb=1486317785)
 
-![](img/len/Sujeto%20núcleo%20y%20adyacentes2.jpg)
+![](https://i.pinimg.com/564x/c2/33/c2/c233c28254ac25734ae7919d205b97b1.jpg)
 
-## 4.19. Predicado nominal: cópula, atributo[^4.16]
+## 4.16. Predicado nominal: cópula, atributo[^4.16]
 
-![](img/len/)
+![](https://image.slidesharecdn.com/wo8gbhhqg4krbnr4agq2-signature-20ce77de77ab8db1966f758689ee22b586ef50841e4dea1d9fe909689caa4aa1-poli-150130024035-conversion-gate02/95/el-sintagma-verbal-complementos-verbales-3-638.jpg?cb=1422607328)
 
-## 4.20. Predicado verbal: núcleo y complementos[^4.17]
+![](https://image.slidesharecdn.com/wo8gbhhqg4krbnr4agq2-signature-20ce77de77ab8db1966f758689ee22b586ef50841e4dea1d9fe909689caa4aa1-poli-150130024035-conversion-gate02/95/el-sintagma-verbal-complementos-verbales-5-638.jpg?cb=1422607328)
 
-![](img/len/Predicado%20verbal%20núcleo%20y%20complementos.jpg)
+## 4.17. Predicado verbal: núcleo y complementos[^4.17]
 
-## 4.21. La oración compuesta: coordinación y subordinación[^4.18]
+![](https://image.slidesharecdn.com/wo8gbhhqg4krbnr4agq2-signature-20ce77de77ab8db1966f758689ee22b586ef50841e4dea1d9fe909689caa4aa1-poli-150130024035-conversion-gate02/95/el-sintagma-verbal-complementos-verbales-3-638.jpg?cb=1422607328)
 
-![](img/len/La%20oración%20compuesta%20subordinada.%20Clases.jpg)
+## 4.18. La oración compuesta: coordinación y subordinación[^4.18]
 
-## 4.22. La oración compuesta coordinada. Clases[^4.19]
+![](https://slideplayer.es/slide/3102897/11/images/3/La+oraci%C3%B3n+compuesta%3A+coordinaci%C3%B3n+y+subordinaci%C3%B3n.jpg)
 
-![](img/len/La%20oración%20compuesta%20coordinada.%20Clases.jpg)
+## 4.19. La oración compuesta coordinada. Clases[^4.19]
 
-## 4.23. La oración compuesta subordinada. Clases[^4.20]
+![](http://delenguayliteratura.com/tipos_de_oraciones_compuestas_coordinadas_subordinadas_y_yuxtapuestas_con_nexos_ejemplos_y_analisis_resueltos_antigua_files/fotos-coordinadas.jpg)
 
-![](img/len/La%20oración%20compuesta%20subordinada.%20Clases.png)
+## 4.20. La oración compuesta subordinada. Clases[^4.20]
 
-## 4.24. Estructura y funciones de las proposiciones subordinadas[^4.21]
+![](https://2.bp.blogspot.com/-sZ_worRbjUU/Wo8RujUgkeI/AAAAAAAAbRw/j-tWZW8sPIoInfgF6M9wCn_N822QHYlHACLcBGAs/s1600/Oraciones_Subordinadas_Tipos.png)
 
-![](img/len/Estructura%20y%20funciones%20de%20las%20proposiciones%20subordinadas.jpg)
+## 4.21. Estructura y funciones de las proposiciones subordinadas[^4.21]
 
-## 4.25. Estructura y contenido de la noticia[^4.22]
+![](https://image.jimcdn.com/app/cms/image/transf/none/path/s7182317f898be3a6/image/ie877f26dadf4a415/version/1492683150/image.jpg)
+
+## 4.22. Estructura y contenido de la noticia[^4.22]
 
 Las noticias que se presentan en los periódicos, como los que has consultado, ofrecen un esquema (partes de la noticia) para que sus lectores puedan identificar fácilmente de qué se trata y encontrar la información que donde se responde a las preguntas:¿qué?, ¿quién?, ¿cuándo?, ¿dónde?, ¿por qué? y ¿cómo? Para ello se estructuran de la siguiente forma:
 
 1. Titular. Presenta o anuncia el contenido de la noticia. Se identifica de inmediato porque se escribe con letras más grandes y, generalmente, con negritas.
 2. La entrada. Resume la noticia en un párrafo breve en el que se da a conocer lo más sobresaliente de la nota. En algunas ocasiones este párrafo aparece en letra cursiva.
 3. El cuerpo. Es el desarrollo de la noticia, en él se proporciona la información y se incluyen algunos temas relacionados con la misma o con diferentes puntos de vista de las personas involucradas.
-4. El final o remate. Presenta información relacionada que permite concluirla nota
+4. El final o remate. Presenta información relacionada que permite concluir la nota
 
 La noticia llega a los lectores después de un proceso que se inicia con el reportero o periodista que cubre la nota, quien envía la información a la redacción del periódico, en donde es editada. En esta segunda fase del proceso, el editor decide, conforme a los criterios y políticas establecidas por el medio que las publica:
 
 - Si se incluye toda la información que proporcionó el reportero o se deja fuera alguna parte.
 - La sección del periódico en que será incluida, de acuerdo con la importancia de la noticia y el tipo de información que presenta.
 
-## 4.26. Estructura y contenido de anuncios publicitarios[^4.23]
+## 4.23. Estructura y contenido de anuncios publicitarios[^4.23]
 
 La finalidad de los textos publicitarios es convencer, provocar necesidades o inducir a la compre de ciertos artículos o servicios. Intentan obtener una respuesta del receptor; por tanto, las funciones apelativa y fática son esenciales en la publicidad.
 
 - Empleo del lenguaje apelativo: Tanto los textos como las imágenes deben estar dirigidos al receptor del mensaje como una invitación
 - Simplicidad y brevedad: El mensaje publicitario debe ser fácil de comprender por el común de las personas.
-- Originalidad: Mientras más original sea el mensaje, mayor será la atracción que generará al públivo.
-- Capacidad de sugerencia: Aparte de presentar las ventajas de un producto o servicio, el mensaje publicitario debe ser capaz de sugerir al receptor determinandos valores, tales como éxito, salud, juventud, alegría, amor, etc.
+- Originalidad: Mientras más original sea el mensaje, mayor será la atracción que generará al público.
+- Capacidad de sugerencia: Aparte de presentar las ventajas de un producto o servicio, el mensaje publicitario debe ser capaz de sugerir al receptor determiandos valores, tales como éxito, salud, juventud, alegría, amor, etc.
 - Eslogan: Es una frase breve fácil de recordar, que exalta las bondades del producto. Tiene por objetivo proporcionar continuidad a la campaña por medio de su anclaje en la memoria del receptor.
-- Capacidad persuasiva: Debe contrinuir al objetivo del mensaje y provocar una reacción favorable hacia aquello de lo que habla.
+- Capacidad persuasiva: Debe contribuir al objetivo del mensaje y provocar una reacción favorable hacia aquello de lo que habla.
 - Sin posibilidad de réplica: Nunca debe suscitar la contra argumentación, mucho menos irritar al público.
 
-## 4.27. Uso de signos de puntuación[^4.24]
+## 4.24. Uso de signos de puntuación[^4.24]
 
 | Signo | Uso de los signos |
 | ----- | ----------------- |
 Punto | - El punto y seguido finaliza una idea dentro del párrafo. <br>- El punto y aparte finaliza el párrafo dentro del texto. <br>- El punto final cierra la redacción de un texto.
-Coma | - Separa dos o más palabras de una enumeración. Ejemplo: Acudió toda la familia: abuelos, padres, hijos, cuñados, etc.<br> - Separa un complemento que se antepone al sujeto. Ejemplo: Por la noche, los niños duermen.-Aisla una oración explicativa que se intercala en una frase. Ejemplo: Ella es, entre todas las que llegaron, la más linda. <br> - Sustituye un verbo (elipsis verbal): A pedro le gusta el jamón; a juan, el tocino. Se ha sustituido el verbo gusta en la segunda oración.
-Punto y coma | - Separa elementos en una oración en caso de que al menos uno de ellos lleve coma, Ejemplo: Norberto traerá la lechuga; Sofía, los tomates; Kenia, los rábanos, y Francisco, los pepinos. <br> - Antes de las conjunciones y locuciones conjuntivas adversativas (pero, aunque, mas, sin embargo, no obstante), concesiva (aunque, por más que, aun cuando, si bien) y consecutivas (por conseguiente, luego, así que), si las frases son muy largas. Ejemplos: El tiempo ha estado a nuestro favor; no obstante, aún faltan muchos detalles por arreglar en el mural. Ayer fueron a comprar las pinturas; por conseguiente, tenemos material para trabajar toda la noche.
-Dos puntos | - Antes de enumeración introducida por una palabra que engloba a todos los elementos. Ejemplo: Me gustas todos los cítricos: naranjas, limones, toronjas. <br> - Para introducir una cita textual. Ejemplo: El filósofo avicena dijo: (En medicina debemos saber las causas de la salud y la enfermedad).
-Guion | - Indica un intervalo. Ejemplos: Páginas 23-29, siglos XI-XII. <br> - En las palabras compuestas que denotan contraposición. Ejemplos: Lección teórico-Práctica. -Las negociaciones jordano-sirias.<br> - También une nombre propios o conceptos opuestos. Ejemplos: Frontera Nicaragua- Honduras, la relación coste-beneficio. <br> - Une un prefijo con una palabra que inicia con mayúscula, una sigla o un número. Ejemplos: anti-hitler, sub-21, pro-OTAN.
-Paréntesis | - Cuando interrumpe para insertar una información complementaria o aclaratoria. Ejemplo: La reunión (que no pasó de las ocho) estuvo agitada. <br> - También para intercalar datos. Ejemplo: El año en que nació (1066) los normandos desembarcaron en Hastings (Gran Bretaña). <br> - Para introducir opciones en e texto. Ejemplo: Allí se indicará(n) el(los) día(s) de entreno. <br> - En las acotaciones de obras teatrales. Ejemplo: REY. (de pie, enérgico) ¡Es hora de atacar!
+Coma | - Separa dos o más palabras de una enumeración. Ejemplo: Acudió toda la familia: abuelos, padres, hijos, cuñados, etc.<br> - Separa un complemento que se antepone al sujeto. Ejemplo: Por la noche, los niños duermen. <br> - Aisla una oración explicativa que se intercala en una frase. Ejemplo: Ella es, entre todas las que llegaron, la más linda. <br> - Sustituye un verbo (elipsis verbal): A pedro le gusta el jamón; a juan, el tocino. Se ha sustituido el verbo gusta en la segunda oración.
+Punto y coma | - Separa elementos en una oración en caso de que al menos uno de ellos lleve coma, Ejemplo: Norberto traerá la lechuga; Sofía, los tomates; Kenia, los rábanos, y Francisco, los pepinos. <br> - Antes de las conjunciones y locuciones conjuntivas adversativas (pero, aunque, mas, sin embargo, no obstante), concesiva (aunque, por más que, aun cuando, si bien) y consecutivas (por consiguiente, luego, así que), si las frases son muy largas. Ejemplos: El tiempo ha estado a nuestro favor; no obstante, aún faltan muchos detalles por arreglar en el mural. Ayer fueron a comprar las pinturas; por consiguiente, tenemos material para trabajar toda la noche.
+Dos puntos | - Antes de enumeración introducida por una palabra que engloba a todos los elementos. Ejemplo: Me gustan todos los cítricos: naranjas, limones, toronjas. <br> - Para introducir una cita textual. Ejemplo: El filósofo avicena dijo: (En medicina debemos saber las causas de la salud y la enfermedad).
+Guión | - Indica un intervalo. Ejemplos: Páginas 23-29, siglos XI-XII. <br> - En las palabras compuestas que denotan contraposición. Ejemplos: Lección teórico-Práctica. Las negociaciones jordano-sirias.<br> - También une nombre propios o conceptos opuestos. Ejemplos: Frontera Nicaragua- Honduras, la relación coste-beneficio. <br> - Une un prefijo con una palabra que inicia con mayúscula, una sigla o un número. Ejemplos: anti-hitler, sub-21, pro-OTAN.
+Paréntesis | - Cuando interrumpe para insertar una información complementaria o aclaratoria. Ejemplo: La reunión (que no pasó de las ocho) estuvo agitada. <br> - También para intercalar datos. Ejemplo: El año en que nació (1066) los normandos desembarcaron en Hastings (Gran Bretaña). <br> - Para introducir opciones en el texto. Ejemplo: Allí se indicará(n) el(los) día(s) de entreno. <br> - En las acotaciones de obras teatrales. Ejemplo: REY. (de pie, enérgico) ¡Es hora de atacar!
 
-## 4.28. Tildación de palabras[^4.25]
+## 4.25. Tildación de palabras[^4.25]
 
-### 4.28.1. Palabras compuesta
+### 4.25.1. Palabras compuesta
 
 Resultan de la unión entre dos lexemas, es decir, dos palabras simples:
 
-- Si las palabras simples van unidas indirectamente a través de un guion corto, ambas palabras conservan su tilde si originalmente la llevaren. Ejemplos: histórico-crítico.
-- Si las palabras simples van unidas indirectamente, conserva la tilde la segunda palabra si originalmente la llevare. Ejemplo: gato + león = gatoleón; física + química = físicoquímico.
+- Si las palabras simples van unidas indirectamente a través de un guión corto, ambas palabras conservan su tilde si originalmente la llevaren. Ejemplos: histórico-crítico.
+- Si las palabras simples van unidas indirectamente, conserva la tilde de la segunda palabra si originalmente la llevare. Ejemplo: gato + león = gatoleón; física + química = físicoquímico.
 
-### 4.28.2. Palabras derivadas con el sufijo *-mente*
+### 4.25.2. Palabras derivadas con el sufijo *-mente*
 
 Los adverbios de modo terminados con el morfema-mente conservan la tilde si la llevare el adjetivo del cual procede. Ejemplos: del adjetivos verdadero (que no lleva tilde) se deriva el adverbio verdaderamente. En cambio, del adjetivo célebre (que sí lleva tilde) procede el adverbio celebremente.
 
-### 4.28.3. Verbos con pronombres átonos
+### 4.25.3. Verbos con pronombres átonos
 
 Los compuestos verbales llevan tilde de acuerdo a las normas de acentuación: cayose (grave terminada en vocal), dámelo (esdrújula).
 
-### 4.28.4. Extranjerismos
+### 4.25.4. Extranjerismos
 
-Son palabras de otro idioma adaptadas al español. Si la palabra extranjera incluye latinismos, se adapta a las normas del español, sin utilizar crusivas, y se le apican las reglas correspodientes. Ejemplos: Juego foot ball /juegos fútbol. me gusta el ballet / me gusta el balé, Hubo quorum /Hubo quórum.-
+Son palabras de otro idioma adaptadas al español. Si la palabra extranjera incluye latinismos, se adapta a las normas del español, sin utilizar cursivas, y se le aplican las reglas correspondientes. Ejemplos: Juego football / Juego fútbol. me gusta el ballet / me gusta el balé, Hubo quorum /Hubo quórum.-
 
-## 4.29. Sinónimos y antónimos[^4.26]
+## 4.26. Sinónimos y antónimos[^4.26]
 
 Los sinónimos son palabras que tienen significado igual o semejante entre sí. Por ejemplo: lindo / bello. Los antónimos son palabras que tienen significado opuesto entre sí. Por ejemplo: lindo / feo.
 
@@ -1355,7 +1357,7 @@ Los sinónimos son palabras que tienen significado igual o semejante entre sí. 
 [^2.10]: http://concurso.cnice.mec.es/cnice2005/93_iniciacion_interactiva_materia/curso/materiales/atomo/modelos.htm, https://blog.unitips.mx/evolucion-del-modelo-atomico, https://energia-nuclear.net/que-es-la-energia-nuclear/atomo
 [^2.11]: https://www.nationalgeographic.com.es/ciencia/,tabla-periodica-forma-ordenar-elementos-quimicos_15988, https://ptable.com/#Properties, https://www.abc.com.py/edicion-impresa/suplementos/escolar/propiedades-periodicas-de-los-elementos-1227981.html
 [^2.12]: https://psicologiaymente.com/miscelanea/tipos-enlaces-quimicos
-[^2.13]:  https://sites.google.com/site/quimica11alianza/temas-de-clase/solucione-quimicas, https://es.slideshare.net/danielmrc/concentracin-de-una-solucin#:~:text=CONCENTRACIÓN%20La%20concentración%20de%20la,se%20alteran%20en%20la%20solución.&text=SOLUTO%20Componente%20de%20una%20solución,es%20disuelta%20por%20el%20solvente
+[^2.13]: https://sites.google.com/site/quimica11alianza/temas-de-clase/solucione-quimicas, https://es.slideshare.net/danielmrc/concentracin-de-una-solucin#:~:text=CONCENTRACIÓN%20La%20concentración%20de%20la,se%20alteran%20en%20la%20solución.&text=SOLUTO%20Componente%20de%20una%20solución,es%20disuelta%20por%20el%20solvente
 [^2.14]: https://oa.ugto.mx/oa/oa-rg-0001374/tema_1__smbolos_en_las_ecuaciones_qumicas.html#:~:text=Una%20reacción%20química%20se%20representa,si%20la%20reacción%20es%20irreversible.
 [^2.15]: https://sites.google.com/site/balanceoportanteo/proceso
 [^2.16]: https://www3.epa.gov/acidrain/education/site_students_spanish/phscale.html#:~:text=La%20escala%20tiene%20valores%20que,neutro%20–%20ni%20ácido%20ni%20básico.&text=La%20lluvia%20ácida%20típica%20tiene%20un%20valor%20de%20pH%20de%204.0.
