@@ -1,12 +1,8 @@
-<!-- title: Prueba AVANZO | Arthur Martelli Gomes -->
-
-<p class="space"></p>
+<!-- title: Prueba AVANZO -->
 
 <h1 class="header"> Prueba AVANZO </h1>
 
 <h2 style="text-align:center"> Arthur Martelli Gomes y Cristian Reyes </h2>
-
-<div style="page-break-after: always;"></div>
 
 # 1. Matemáticas
 
