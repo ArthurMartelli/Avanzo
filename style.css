@@ -85,9 +85,14 @@ ul {
 
 p {
   font-size: 12pt;
-  text-indent: 1in;
   text-align: justify;
   margin-bottom: 0ch;
+  font-weight: bold;
+}
+
+p::before {
+  content: 'Respuesta: ';
+  font-weight: normal;
 }
 
 blockquote p {
